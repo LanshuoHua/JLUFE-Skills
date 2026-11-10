@@ -1,0 +1,4 @@
+interface:
+  display_name: "吉林财经大学保研"
+  short_description: "核查吉财统数学院推免规则和外校项目，复算课程均分，起草与核对申请文书"
+  default_prompt: "请使用 $jlufe-baoyan，依据我的学院、专业和毕业届别核查推免条件，说明依据与缺口，并给出下一步准备方案。"
