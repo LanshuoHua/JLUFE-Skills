@@ -1,0 +1,213 @@
+{
+  "checked_at": "2026-11-10",
+  "sources": [
+    {
+      "source_id": "U01",
+      "source_type": "user_supplied_document",
+      "title": "吉林财经大学推荐优秀应届本科毕业生免试攻读研究生工作管理办法（试行）",
+      "document_number": "吉财大发〔2022〕64号",
+      "signed_date": "2022-05-05",
+      "printed_date": "2022-06-15",
+      "publication_date": null,
+      "page_count": 8,
+      "scope": "全日制应届本科生；2027校级通知明确援引。逐届核验有效性。",
+      "verification": "扫描件；8页目视核验；正文与官方学院转载交叉核对。 2026-11-10已下载教务处PDF，SHA256与用户提供原件一致。",
+      "related_official_url": "https://newtjxy.jlufe.edu.cn/info/1135/2971.htm",
+      "official_attachment_hash_verified": true,
+      "checked_at": "2026-11-10",
+      "official_download_url": "https://jwc.jlufe.edu.cn/banfa.pdf",
+      "redistributed": false
+    },
+    {
+      "source_id": "U02",
+      "source_type": "user_supplied_document",
+      "title": "吉林财经大学统计学院推荐优秀应届本科毕业生免试攻读研究生附加分细则（适用于原统计学院2027届毕业生）",
+      "document_number": null,
+      "signed_date": null,
+      "printed_date": null,
+      "publication_date": null,
+      "page_count": 2,
+      "scope": "正文限定原统计学院2027届；不得外推全部年级。",
+      "verification": "2页文本提取并视觉核验；官网同名附件7尚未逐字节比对。",
+      "related_official_url": "https://tjysjkx.jlufe.edu.cn/info/1117/5147.htm",
+      "official_attachment_hash_verified": false,
+      "checked_at": "2026-11-10",
+      "redistributed": false
+    },
+    {
+      "source_id": "U03",
+      "source_type": "user_supplied_document",
+      "title": "吉林财经大学应用数学学院推荐优秀应届本科毕业生免试攻读研究生工作细则（试行）",
+      "document_number": null,
+      "signed_date": null,
+      "printed_date": null,
+      "publication_date": null,
+      "page_count": 5,
+      "scope": "原应用数学学院；正文未注明届别和发文日；2027通知同名附件8须继续核实版本。",
+      "verification": "5页文本提取并视觉核验；p3公式原页有排版缺损；5分条款与当届援引校规3分冲突。",
+      "related_official_url": "https://tjysjkx.jlufe.edu.cn/info/1117/5147.htm",
+      "official_attachment_hash_verified": false,
+      "checked_at": "2026-11-10",
+      "redistributed": false
+    },
+    {
+      "source_id": "U05",
+      "source_type": "user_supplied_document",
+      "title": "关于印发《吉林财经大学学术期刊分类分级认定目录（2025年版）》的通知",
+      "document_number": "吉财大发〔2025〕124号",
+      "signed_date": "2025-06-20",
+      "printed_date": "2025-06-23",
+      "publication_date": null,
+      "page_count": 28,
+      "scope": "科研期刊分类依据；推免成果资格另查当届院规；新旧过渡至2025-12-31。",
+      "verification": "扫描件；28页分段目视核验；建立规则摘要与页索引，未制作逐刊完整OCR数据。",
+      "related_official_url": null,
+      "official_attachment_hash_verified": false,
+      "checked_at": "2026-11-10",
+      "redistributed": false
+    },
+    {
+      "source_id": "U06",
+      "source_type": "user_supplied_document",
+      "title": "附件：吉林财经大学本科生学科竞赛名单（2024年3月版）",
+      "document_number": null,
+      "signed_date": null,
+      "printed_date": null,
+      "publication_date": null,
+      "page_count": null,
+      "scope": "历史竞赛名单；当届采用情况待核。不是完整管理办法。",
+      "verification": "全部工作表只读核验；名单2024.3!A3:C118含116条；Sheet1为空。无赛事分类、推免分值或文件号。",
+      "related_official_url": null,
+      "official_attachment_hash_verified": false,
+      "checked_at": "2026-11-10",
+      "redistributed": false
+    }
+  ],
+  "note": "公开版提供自编摘要与出处，用户提供的材料原件在本地工作区核验。",
+  "clarifications": [
+    {
+      "source_id": "T01",
+      "source_type": "user_confirmed_practice",
+      "confirmed_at": "2026-11-10",
+      "question": "原统计学院实际折算加分时，最高原始总分是按各专业分别取最高，还是原统计学院整体取最高？",
+      "answer": "原统计学院整体取最高",
+      "scope": "当前原统计学院推免流程；同一轮比较，未来届别复核。",
+      "official_document_explicit": false,
+      "limitation": "具体最高原始总分由学院核准。年级和原专业班名额按T03分别核查。"
+    },
+    {
+      "source_id": "T02",
+      "source_type": "user_confirmed_practice",
+      "confirmed_at": "2026-11-10",
+      "scope": "统数学院2024级及以前，按学籍专业沿用原学院当届规则。",
+      "entry_year_max": 2024,
+      "original_statistics": [
+        "统计学",
+        "应用统计学",
+        "数据科学",
+        "经济统计学",
+        "经济统计学（经济数据工程实验班）"
+      ],
+      "original_applied_mathematics": [
+        "数学与应用数学",
+        "金融数学"
+      ],
+      "first_regular_admission_year": {
+        "数据科学": 2024,
+        "金融数学": 2024
+      },
+      "official_context": [
+        {
+          "url": "https://tjysjkx.jlufe.edu.cn/info/1117/3921.htm",
+          "supports": "2025年7月原统计学院与原应用数学学院合并。"
+        },
+        {
+          "url": "https://tjysjkx.jlufe.edu.cn/info/1117/5147.htm",
+          "supports": "2024级及以前沿用原两院方案，以及2023级列明专业的附件对应。"
+        },
+        {
+          "url": "https://www.jlufe.edu.cn/info/1045/14483.htm",
+          "supports": "2024年本科招生计划新增数据科学和金融数学。"
+        }
+      ],
+      "limitation": "七专业的完整分流由用户补充。具体适用文本、学籍及实验班情况按当届核对。"
+    },
+    {
+      "source_id": "T03",
+      "source_type": "user_confirmed_practice",
+      "confirmed_at": "2026-11-10",
+      "scope": "合并后的统数学院原专业班配额及原统计学院选拔口径，附2023级／2027届用户确认实例。",
+      "quota_basis_headcount": 40,
+      "quota_basis_purpose": "核算原专业班保底名额，实际班内选拔以原专业班为单位。",
+      "minimum_class_quota_ratio_on_basis": 0.05,
+      "minimum_class_quota": 2,
+      "quota_formula": "Q = m × C_s + n + m × C_a",
+      "quota_rule": "Q为合并学院总额，C_s、C_a分别为原统计和原应用数学的原专业班数。两院各班等额分配m个基础名额，含保底份额。余数n供原统计学院年级排序使用，整除时n为0。",
+      "year_level_pool": "原统计学院同届通过资格审核的报名者",
+      "class_level_pool": "同一原专业班通过资格审核的报名者",
+      "year_level_score": "推免综合成绩（理论必修加权均分＋附加分）",
+      "class_level_score": "推免综合成绩（理论必修加权均分＋附加分）",
+      "selection_order": null,
+      "selection_order_status": "pending_confirmation",
+      "selection_order_scenarios": [
+        {
+          "id": "year_first",
+          "steps": [
+            "原统计同届合格报名者按推免综合成绩取前n名",
+            "各原专业班在本班其余合格报名者中按推免综合成绩取前m名"
+          ]
+        },
+        {
+          "id": "class_first",
+          "steps": [
+            "各原专业班在本班合格报名者中按推免综合成绩取前m名",
+            "汇总原统计其余合格报名者，按推免综合成绩取年级前n名"
+          ]
+        }
+      ],
+      "example": {
+        "entry_year": 2023,
+        "graduation_year": 2027,
+        "total_quota": 17,
+        "total_quota_scope": "合并后的统数学院，含原应用数学各班",
+        "quota_per_original_class": 3,
+        "year_level_quota": 2,
+        "derived_combined_original_class_count": 5,
+        "original_statistics_class_count": null,
+        "original_applied_mathematics_class_count": null
+      },
+      "quota_trend_user_observation": "推免名额逐年增加。各届数量查年度分配。",
+      "official_document_explicit": false,
+      "limitation": "当届分配表、两院各自原专业班数、班内与年级名额选拔的先后、同分及递补待核。"
+    },
+    {
+      "source_id": "T04",
+      "source_type": "user_requested_planning_assumption",
+      "confirmed_at": "2026-11-10",
+      "entry_year_min": 2025,
+      "scope": "统数学院2025级及以后全部七专业／方向的准备规划。",
+      "planning_reference": "暂按原统计学院要求准备。",
+      "formal_policy_status": "未确定，可能沿用原统计方案或在其基础上调整。",
+      "official_document_explicit": false
+    },
+    {
+      "source_id": "T05",
+      "source_type": "user_confirmed_practice",
+      "confirmed_at": "2026-11-10",
+      "scope": "吉财推免必修初修资格审核与理论必修均分范围。",
+      "document_basis": [
+        "U01第9条（第4页）规定全部必修课程初修成绩及格。",
+        "U01第10条（第4至5页）规定前三学年应修理论必修课的初修成绩及学分加权。"
+      ],
+      "required_initial_pass_includes_practice": true,
+      "elective_failure_treatment": "必修初修及格门槛只核查必修课程，只有选修挂科时继续核查其余资格条件。",
+      "theoretical_required_modules": [
+        "通识必修",
+        "学科必修",
+        "专业必修"
+      ],
+      "practice_courses_in_theoretical_average": false,
+      "classification_source": "按对应年级及专业培养方案的逐课属性与学院核定口径。三类模块名称与实践排除的具体解释来自用户补充。"
+    }
+  ]
+}
