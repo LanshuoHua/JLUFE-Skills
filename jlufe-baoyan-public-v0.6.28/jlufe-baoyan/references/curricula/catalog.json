@@ -1,0 +1,3641 @@
+{
+  "schema_version": "1.0",
+  "checked_on": "2026-11-10",
+  "scope": "吉林财经大学统计与数据科学学院各年级；年级适用性逐项核实",
+  "unknown_value": "null means unavailable or unverified, never zero credits",
+  "plans": [
+    {
+      "source_id": "P01",
+      "programme": "统计学",
+      "role": "public_summary",
+      "published_on": "2024-10-09",
+      "source": {
+        "url": "https://tjysjkx.jlufe.edu.cn/info/1084/3261.htm",
+        "downloaded_on": "2026-11-10",
+        "retrieval_status": "complete_html_archive",
+        "local_file": "pages/3261.html",
+        "bytes": 42780,
+        "sha256": "6b09a786fa4dd718daf6585aafa9f6129e72b9252b2175e393c3a603ade55f51"
+      },
+      "extracted_file": "extracted/P01.txt",
+      "article_text_sha256": "3de742d3bc6d160f1d8ce3d9e69637b256056ba4115b2ee2f3a0cc3d7c4a4aab",
+      "cohorts_named_in_attachment_labels": [
+        2023
+      ],
+      "cohort_applicability_verified_from_course_table": false,
+      "cohort_evidence_note": "附件标题年级仅为定位线索；发布日期不代表入学年级；逐课表未取得，其他年级适用性未知。",
+      "attachment_labels": [
+        "附件1：2023级统计学培养方案（按课程）",
+        "附件2：2023级统计学培养方案（按进程）"
+      ],
+      "article_link_targets": [],
+      "article_embedded_sources": [],
+      "graduation_credits": {
+        "theory": 128,
+        "practice": 33,
+        "total": 161,
+        "basis": "stated_in_article"
+      },
+      "module_credits": [
+        {
+          "name": "通识必修课",
+          "credits": 38.0
+        },
+        {
+          "name": "通识选修课",
+          "credits": 10.0
+        },
+        {
+          "name": "学科必修课",
+          "credits": 34.0
+        },
+        {
+          "name": "学科选修课",
+          "credits": 8.0
+        },
+        {
+          "name": "专业必修课",
+          "credits": 24.0
+        },
+        {
+          "name": "专业选修课",
+          "credits": 14.0
+        },
+        {
+          "name": "通识实践",
+          "credits": 18.0
+        },
+        {
+          "name": "专业实践",
+          "credits": 11.0
+        },
+        {
+          "name": "创新创业实践",
+          "credits": 4.0
+        }
+      ],
+      "main_courses": [
+        {
+          "name": "数学分析1",
+          "credits": null,
+          "course_code": null,
+          "course_type": null,
+          "semester": null,
+          "syllabus_details": null,
+          "eligible_for_recommendation_average": null,
+          "evidence_location": "主要课程段落",
+          "evidence_status": "name_only_in_official_overview"
+        },
+        {
+          "name": "数学分析2",
+          "credits": null,
+          "course_code": null,
+          "course_type": null,
+          "semester": null,
+          "syllabus_details": null,
+          "eligible_for_recommendation_average": null,
+          "evidence_location": "主要课程段落",
+          "evidence_status": "name_only_in_official_overview"
+        },
+        {
+          "name": "高等代数",
+          "credits": null,
+          "course_code": null,
+          "course_type": null,
+          "semester": null,
+          "syllabus_details": null,
+          "eligible_for_recommendation_average": null,
+          "evidence_location": "主要课程段落",
+          "evidence_status": "name_only_in_official_overview"
+        },
+        {
+          "name": "西方经济学",
+          "credits": null,
+          "course_code": null,
+          "course_type": null,
+          "semester": null,
+          "syllabus_details": null,
+          "eligible_for_recommendation_average": null,
+          "evidence_location": "主要课程段落",
+          "evidence_status": "name_only_in_official_overview"
+        },
+        {
+          "name": "统计学",
+          "credits": null,
+          "course_code": null,
+          "course_type": null,
+          "semester": null,
+          "syllabus_details": null,
+          "eligible_for_recommendation_average": null,
+          "evidence_location": "主要课程段落",
+          "evidence_status": "name_only_in_official_overview"
+        },
+        {
+          "name": "概率论",
+          "credits": null,
+          "course_code": null,
+          "course_type": null,
+          "semester": null,
+          "syllabus_details": null,
+          "eligible_for_recommendation_average": null,
+          "evidence_location": "主要课程段落",
+          "evidence_status": "name_only_in_official_overview"
+        },
+        {
+          "name": "数学建模",
+          "credits": null,
+          "course_code": null,
+          "course_type": null,
+          "semester": null,
+          "syllabus_details": null,
+          "eligible_for_recommendation_average": null,
+          "evidence_location": "主要课程段落",
+          "evidence_status": "name_only_in_official_overview"
+        },
+        {
+          "name": "非参数统计",
+          "credits": null,
+          "course_code": null,
+          "course_type": null,
+          "semester": null,
+          "syllabus_details": null,
+          "eligible_for_recommendation_average": null,
+          "evidence_location": "主要课程段落",
+          "evidence_status": "name_only_in_official_overview"
+        },
+        {
+          "name": "应用回归分析",
+          "credits": null,
+          "course_code": null,
+          "course_type": null,
+          "semester": null,
+          "syllabus_details": null,
+          "eligible_for_recommendation_average": null,
+          "evidence_location": "主要课程段落",
+          "evidence_status": "name_only_in_official_overview"
+        },
+        {
+          "name": "数理统计",
+          "credits": null,
+          "course_code": null,
+          "course_type": null,
+          "semester": null,
+          "syllabus_details": null,
+          "eligible_for_recommendation_average": null,
+          "evidence_location": "主要课程段落",
+          "evidence_status": "name_only_in_official_overview"
+        },
+        {
+          "name": "随机过程",
+          "credits": null,
+          "course_code": null,
+          "course_type": null,
+          "semester": null,
+          "syllabus_details": null,
+          "eligible_for_recommendation_average": null,
+          "evidence_location": "主要课程段落",
+          "evidence_status": "name_only_in_official_overview"
+        },
+        {
+          "name": "抽样技术",
+          "credits": null,
+          "course_code": null,
+          "course_type": null,
+          "semester": null,
+          "syllabus_details": null,
+          "eligible_for_recommendation_average": null,
+          "evidence_location": "主要课程段落",
+          "evidence_status": "name_only_in_official_overview"
+        },
+        {
+          "name": "多元统计分析",
+          "credits": null,
+          "course_code": null,
+          "course_type": null,
+          "semester": null,
+          "syllabus_details": null,
+          "eligible_for_recommendation_average": null,
+          "evidence_location": "主要课程段落",
+          "evidence_status": "name_only_in_official_overview"
+        },
+        {
+          "name": "时间序列分析",
+          "credits": null,
+          "course_code": null,
+          "course_type": null,
+          "semester": null,
+          "syllabus_details": null,
+          "eligible_for_recommendation_average": null,
+          "evidence_location": "主要课程段落",
+          "evidence_status": "name_only_in_official_overview"
+        },
+        {
+          "name": "统计计算与软件",
+          "credits": null,
+          "course_code": null,
+          "course_type": null,
+          "semester": null,
+          "syllabus_details": null,
+          "eligible_for_recommendation_average": null,
+          "evidence_location": "主要课程段落",
+          "evidence_status": "name_only_in_official_overview"
+        },
+        {
+          "name": "数据挖掘技术导论",
+          "credits": null,
+          "course_code": null,
+          "course_type": null,
+          "semester": null,
+          "syllabus_details": null,
+          "eligible_for_recommendation_average": null,
+          "evidence_location": "主要课程段落",
+          "evidence_status": "name_only_in_official_overview"
+        },
+        {
+          "name": "市场调研与预测",
+          "credits": null,
+          "course_code": null,
+          "course_type": null,
+          "semester": null,
+          "syllabus_details": null,
+          "eligible_for_recommendation_average": null,
+          "evidence_location": "主要课程段落",
+          "evidence_status": "name_only_in_official_overview"
+        },
+        {
+          "name": "经济预测与决策",
+          "credits": null,
+          "course_code": null,
+          "course_type": null,
+          "semester": null,
+          "syllabus_details": null,
+          "eligible_for_recommendation_average": null,
+          "evidence_location": "主要课程段落",
+          "evidence_status": "name_only_in_official_overview"
+        },
+        {
+          "name": "C语言程序设计",
+          "credits": null,
+          "course_code": null,
+          "course_type": null,
+          "semester": null,
+          "syllabus_details": null,
+          "eligible_for_recommendation_average": null,
+          "evidence_location": "主要课程段落",
+          "evidence_status": "name_only_in_official_overview"
+        },
+        {
+          "name": "Python数据分析",
+          "credits": null,
+          "course_code": null,
+          "course_type": null,
+          "semester": null,
+          "syllabus_details": null,
+          "eligible_for_recommendation_average": null,
+          "evidence_location": "主要课程段落",
+          "evidence_status": "name_only_in_official_overview"
+        },
+        {
+          "name": "国民经济统计学",
+          "credits": null,
+          "course_code": null,
+          "course_type": null,
+          "semester": null,
+          "syllabus_details": null,
+          "eligible_for_recommendation_average": null,
+          "evidence_location": "主要课程段落",
+          "evidence_status": "name_only_in_official_overview"
+        },
+        {
+          "name": "实变函数",
+          "credits": null,
+          "course_code": null,
+          "course_type": null,
+          "semester": null,
+          "syllabus_details": null,
+          "eligible_for_recommendation_average": null,
+          "evidence_location": "主要课程段落",
+          "evidence_status": "name_only_in_official_overview"
+        },
+        {
+          "name": "运筹学",
+          "credits": null,
+          "course_code": null,
+          "course_type": null,
+          "semester": null,
+          "syllabus_details": null,
+          "eligible_for_recommendation_average": null,
+          "evidence_location": "主要课程段落",
+          "evidence_status": "name_only_in_official_overview"
+        },
+        {
+          "name": "试验设计",
+          "credits": null,
+          "course_code": null,
+          "course_type": null,
+          "semester": null,
+          "syllabus_details": null,
+          "eligible_for_recommendation_average": null,
+          "evidence_location": "主要课程段落",
+          "evidence_status": "name_only_in_official_overview"
+        }
+      ],
+      "full_course_list_obtained": false,
+      "per_course_credits_obtained": false
+    },
+    {
+      "source_id": "P02",
+      "programme": "应用统计学",
+      "role": "public_summary",
+      "published_on": "2024-10-09",
+      "source": {
+        "url": "https://tjysjkx.jlufe.edu.cn/info/1084/3263.htm",
+        "downloaded_on": "2026-11-10",
+        "retrieval_status": "complete_html_archive",
+        "local_file": "pages/3263.html",
+        "bytes": 38826,
+        "sha256": "47614103f0b3bd6963ea02cb0c081435e051779190e64b8bed9ed542b156aa96"
+      },
+      "extracted_file": "extracted/P02.txt",
+      "article_text_sha256": "3e328851d5f64767ad86e3283075d92bc5a4410044dab503b7c7811cd8a77b4c",
+      "cohorts_named_in_attachment_labels": [
+        2023
+      ],
+      "cohort_applicability_verified_from_course_table": false,
+      "cohort_evidence_note": "附件标题年级仅为定位线索；发布日期不代表入学年级；逐课表未取得，其他年级适用性未知。",
+      "attachment_labels": [
+        "附件1：2023级应用统计学培养方案（按课程）",
+        "附件2：2023级应用统计学培养方案（按进程）"
+      ],
+      "article_link_targets": [],
+      "article_embedded_sources": [],
+      "graduation_credits": {
+        "theory": 127,
+        "practice": 33,
+        "total": 160,
+        "basis": "stated_in_article"
+      },
+      "module_credits": [
+        {
+          "name": "通识必修课",
+          "credits": 38.0
+        },
+        {
+          "name": "通识选修课",
+          "credits": 10.0
+        },
+        {
+          "name": "学科必修课",
+          "credits": 33.0
+        },
+        {
+          "name": "学科选修课",
+          "credits": 8.0
+        },
+        {
+          "name": "专业必修课",
+          "credits": 24.0
+        },
+        {
+          "name": "专业选修课",
+          "credits": 14.0
+        },
+        {
+          "name": "通识实践",
+          "credits": 18.0
+        },
+        {
+          "name": "专业实践",
+          "credits": 11.0
+        },
+        {
+          "name": "创新创业实践",
+          "credits": 4.0
+        }
+      ],
+      "main_courses": [
+        {
+          "name": "政治经济学",
+          "credits": null,
+          "course_code": null,
+          "course_type": null,
+          "semester": null,
+          "syllabus_details": null,
+          "eligible_for_recommendation_average": null,
+          "evidence_location": "主要课程段落",
+          "evidence_status": "name_only_in_official_overview"
+        },
+        {
+          "name": "数学分析1",
+          "credits": null,
+          "course_code": null,
+          "course_type": null,
+          "semester": null,
+          "syllabus_details": null,
+          "eligible_for_recommendation_average": null,
+          "evidence_location": "主要课程段落",
+          "evidence_status": "name_only_in_official_overview"
+        },
+        {
+          "name": "高等代数",
+          "credits": null,
+          "course_code": null,
+          "course_type": null,
+          "semester": null,
+          "syllabus_details": null,
+          "eligible_for_recommendation_average": null,
+          "evidence_location": "主要课程段落",
+          "evidence_status": "name_only_in_official_overview"
+        },
+        {
+          "name": "西方经济学",
+          "credits": null,
+          "course_code": null,
+          "course_type": null,
+          "semester": null,
+          "syllabus_details": null,
+          "eligible_for_recommendation_average": null,
+          "evidence_location": "主要课程段落",
+          "evidence_status": "name_only_in_official_overview"
+        },
+        {
+          "name": "统计学",
+          "credits": null,
+          "course_code": null,
+          "course_type": null,
+          "semester": null,
+          "syllabus_details": null,
+          "eligible_for_recommendation_average": null,
+          "evidence_location": "主要课程段落",
+          "evidence_status": "name_only_in_official_overview"
+        },
+        {
+          "name": "数学分析2",
+          "credits": null,
+          "course_code": null,
+          "course_type": null,
+          "semester": null,
+          "syllabus_details": null,
+          "eligible_for_recommendation_average": null,
+          "evidence_location": "主要课程段落",
+          "evidence_status": "name_only_in_official_overview"
+        },
+        {
+          "name": "概率论",
+          "credits": null,
+          "course_code": null,
+          "course_type": null,
+          "semester": null,
+          "syllabus_details": null,
+          "eligible_for_recommendation_average": null,
+          "evidence_location": "主要课程段落",
+          "evidence_status": "name_only_in_official_overview"
+        },
+        {
+          "name": "货币银行学",
+          "credits": null,
+          "course_code": null,
+          "course_type": null,
+          "semester": null,
+          "syllabus_details": null,
+          "eligible_for_recommendation_average": null,
+          "evidence_location": "主要课程段落",
+          "evidence_status": "name_only_in_official_overview"
+        },
+        {
+          "name": "非参数统计",
+          "credits": null,
+          "course_code": null,
+          "course_type": null,
+          "semester": null,
+          "syllabus_details": null,
+          "eligible_for_recommendation_average": null,
+          "evidence_location": "主要课程段落",
+          "evidence_status": "name_only_in_official_overview"
+        },
+        {
+          "name": "应用回归分析",
+          "credits": null,
+          "course_code": null,
+          "course_type": null,
+          "semester": null,
+          "syllabus_details": null,
+          "eligible_for_recommendation_average": null,
+          "evidence_location": "主要课程段落",
+          "evidence_status": "name_only_in_official_overview"
+        },
+        {
+          "name": "数理统计",
+          "credits": null,
+          "course_code": null,
+          "course_type": null,
+          "semester": null,
+          "syllabus_details": null,
+          "eligible_for_recommendation_average": null,
+          "evidence_location": "主要课程段落",
+          "evidence_status": "name_only_in_official_overview"
+        },
+        {
+          "name": "随机过程",
+          "credits": null,
+          "course_code": null,
+          "course_type": null,
+          "semester": null,
+          "syllabus_details": null,
+          "eligible_for_recommendation_average": null,
+          "evidence_location": "主要课程段落",
+          "evidence_status": "name_only_in_official_overview"
+        },
+        {
+          "name": "抽样技术",
+          "credits": null,
+          "course_code": null,
+          "course_type": null,
+          "semester": null,
+          "syllabus_details": null,
+          "eligible_for_recommendation_average": null,
+          "evidence_location": "主要课程段落",
+          "evidence_status": "name_only_in_official_overview"
+        },
+        {
+          "name": "多元统计分析",
+          "credits": null,
+          "course_code": null,
+          "course_type": null,
+          "semester": null,
+          "syllabus_details": null,
+          "eligible_for_recommendation_average": null,
+          "evidence_location": "主要课程段落",
+          "evidence_status": "name_only_in_official_overview"
+        },
+        {
+          "name": "时间序列分析",
+          "credits": null,
+          "course_code": null,
+          "course_type": null,
+          "semester": null,
+          "syllabus_details": null,
+          "eligible_for_recommendation_average": null,
+          "evidence_location": "主要课程段落",
+          "evidence_status": "name_only_in_official_overview"
+        },
+        {
+          "name": "证券投资学",
+          "credits": null,
+          "course_code": null,
+          "course_type": null,
+          "semester": null,
+          "syllabus_details": null,
+          "eligible_for_recommendation_average": null,
+          "evidence_location": "主要课程段落",
+          "evidence_status": "name_only_in_official_overview"
+        },
+        {
+          "name": "金融风险管理",
+          "credits": null,
+          "course_code": null,
+          "course_type": null,
+          "semester": null,
+          "syllabus_details": null,
+          "eligible_for_recommendation_average": null,
+          "evidence_location": "主要课程段落",
+          "evidence_status": "name_only_in_official_overview"
+        },
+        {
+          "name": "贝叶斯统计",
+          "credits": null,
+          "course_code": null,
+          "course_type": null,
+          "semester": null,
+          "syllabus_details": null,
+          "eligible_for_recommendation_average": null,
+          "evidence_location": "主要课程段落",
+          "evidence_status": "name_only_in_official_overview"
+        },
+        {
+          "name": "经济预测与决策",
+          "credits": null,
+          "course_code": null,
+          "course_type": null,
+          "semester": null,
+          "syllabus_details": null,
+          "eligible_for_recommendation_average": null,
+          "evidence_location": "主要课程段落",
+          "evidence_status": "name_only_in_official_overview"
+        },
+        {
+          "name": "保险精算",
+          "credits": null,
+          "course_code": null,
+          "course_type": null,
+          "semester": null,
+          "syllabus_details": null,
+          "eligible_for_recommendation_average": null,
+          "evidence_location": "主要课程段落",
+          "evidence_status": "name_only_in_official_overview"
+        },
+        {
+          "name": "C语言程序设计",
+          "credits": null,
+          "course_code": null,
+          "course_type": null,
+          "semester": null,
+          "syllabus_details": null,
+          "eligible_for_recommendation_average": null,
+          "evidence_location": "主要课程段落",
+          "evidence_status": "name_only_in_official_overview"
+        },
+        {
+          "name": "金融衍生品",
+          "credits": null,
+          "course_code": null,
+          "course_type": null,
+          "semester": null,
+          "syllabus_details": null,
+          "eligible_for_recommendation_average": null,
+          "evidence_location": "主要课程段落",
+          "evidence_status": "name_only_in_official_overview"
+        },
+        {
+          "name": "Python数据分析",
+          "credits": null,
+          "course_code": null,
+          "course_type": null,
+          "semester": null,
+          "syllabus_details": null,
+          "eligible_for_recommendation_average": null,
+          "evidence_location": "主要课程段落",
+          "evidence_status": "name_only_in_official_overview"
+        },
+        {
+          "name": "国民经济统计学",
+          "credits": null,
+          "course_code": null,
+          "course_type": null,
+          "semester": null,
+          "syllabus_details": null,
+          "eligible_for_recommendation_average": null,
+          "evidence_location": "主要课程段落",
+          "evidence_status": "name_only_in_official_overview"
+        },
+        {
+          "name": "SAS统计分析软件",
+          "credits": null,
+          "course_code": null,
+          "course_type": null,
+          "semester": null,
+          "syllabus_details": null,
+          "eligible_for_recommendation_average": null,
+          "evidence_location": "主要课程段落",
+          "evidence_status": "name_only_in_official_overview"
+        },
+        {
+          "name": "运筹学",
+          "credits": null,
+          "course_code": null,
+          "course_type": null,
+          "semester": null,
+          "syllabus_details": null,
+          "eligible_for_recommendation_average": null,
+          "evidence_location": "主要课程段落",
+          "evidence_status": "name_only_in_official_overview"
+        },
+        {
+          "name": "探索性数据分析",
+          "credits": null,
+          "course_code": null,
+          "course_type": null,
+          "semester": null,
+          "syllabus_details": null,
+          "eligible_for_recommendation_average": null,
+          "evidence_location": "主要课程段落",
+          "evidence_status": "name_only_in_official_overview"
+        },
+        {
+          "name": "试验设计",
+          "credits": null,
+          "course_code": null,
+          "course_type": null,
+          "semester": null,
+          "syllabus_details": null,
+          "eligible_for_recommendation_average": null,
+          "evidence_location": "主要课程段落",
+          "evidence_status": "name_only_in_official_overview"
+        }
+      ],
+      "full_course_list_obtained": false,
+      "per_course_credits_obtained": false
+    },
+    {
+      "source_id": "P03",
+      "programme": "数据科学",
+      "role": "public_summary",
+      "published_on": "2024-10-09",
+      "source": {
+        "url": "https://tjysjkx.jlufe.edu.cn/info/1084/3260.htm",
+        "downloaded_on": "2026-11-10",
+        "retrieval_status": "complete_html_archive",
+        "local_file": "pages/3260.html",
+        "bytes": 35461,
+        "sha256": "0516e298b628c2bad6bf70202ffb33b695ec4fdfba2e19f50b80d2b4e56a1eb7"
+      },
+      "extracted_file": "extracted/P03.txt",
+      "article_text_sha256": "bb97f4c5af697b134fba141c804cd736b4e8f18e3606dd07aabe8419fd053ff8",
+      "cohorts_named_in_attachment_labels": [
+        2024
+      ],
+      "cohort_applicability_verified_from_course_table": false,
+      "cohort_evidence_note": "附件标题年级仅为定位线索；发布日期不代表入学年级；逐课表未取得，其他年级适用性未知。",
+      "attachment_labels": [
+        "附件1：2024级数据科学专业培养方案（按课程）",
+        "附件2：2024级数据科学专业培养方案（按进程）"
+      ],
+      "article_link_targets": [],
+      "article_embedded_sources": [],
+      "graduation_credits": {
+        "theory": 128,
+        "practice": 33,
+        "total": 161,
+        "basis": "stated_in_article"
+      },
+      "module_credits": [
+        {
+          "name": "通识必修课",
+          "credits": 38.0
+        },
+        {
+          "name": "通识选修课",
+          "credits": 10.0
+        },
+        {
+          "name": "学科必修课",
+          "credits": 34.0
+        },
+        {
+          "name": "学科选修课",
+          "credits": 8.0
+        },
+        {
+          "name": "专业必修课",
+          "credits": 24.0
+        },
+        {
+          "name": "专业选修课",
+          "credits": 14.0
+        },
+        {
+          "name": "通识实践",
+          "credits": 18.0
+        },
+        {
+          "name": "专业实践",
+          "credits": 11.0
+        },
+        {
+          "name": "创新创业实践",
+          "credits": 4.0
+        }
+      ],
+      "main_courses": [
+        {
+          "name": "高等代数",
+          "credits": null,
+          "course_code": null,
+          "course_type": null,
+          "semester": null,
+          "syllabus_details": null,
+          "eligible_for_recommendation_average": null,
+          "evidence_location": "主要课程段落",
+          "evidence_status": "name_only_in_official_overview"
+        },
+        {
+          "name": "数学分析1",
+          "credits": null,
+          "course_code": null,
+          "course_type": null,
+          "semester": null,
+          "syllabus_details": null,
+          "eligible_for_recommendation_average": null,
+          "evidence_location": "主要课程段落",
+          "evidence_status": "name_only_in_official_overview"
+        },
+        {
+          "name": "政治经济学",
+          "credits": null,
+          "course_code": null,
+          "course_type": null,
+          "semester": null,
+          "syllabus_details": null,
+          "eligible_for_recommendation_average": null,
+          "evidence_location": "主要课程段落",
+          "evidence_status": "name_only_in_official_overview"
+        },
+        {
+          "name": "统计学",
+          "credits": null,
+          "course_code": null,
+          "course_type": null,
+          "semester": null,
+          "syllabus_details": null,
+          "eligible_for_recommendation_average": null,
+          "evidence_location": "主要课程段落",
+          "evidence_status": "name_only_in_official_overview"
+        },
+        {
+          "name": "数学分析2",
+          "credits": null,
+          "course_code": null,
+          "course_type": null,
+          "semester": null,
+          "syllabus_details": null,
+          "eligible_for_recommendation_average": null,
+          "evidence_location": "主要课程段落",
+          "evidence_status": "name_only_in_official_overview"
+        },
+        {
+          "name": "西方经济学",
+          "credits": null,
+          "course_code": null,
+          "course_type": null,
+          "semester": null,
+          "syllabus_details": null,
+          "eligible_for_recommendation_average": null,
+          "evidence_location": "主要课程段落",
+          "evidence_status": "name_only_in_official_overview"
+        },
+        {
+          "name": "程序设计基础",
+          "credits": null,
+          "course_code": null,
+          "course_type": null,
+          "semester": null,
+          "syllabus_details": null,
+          "eligible_for_recommendation_average": null,
+          "evidence_location": "主要课程段落",
+          "evidence_status": "name_only_in_official_overview"
+        },
+        {
+          "name": "数据结构与算法",
+          "credits": null,
+          "course_code": null,
+          "course_type": null,
+          "semester": null,
+          "syllabus_details": null,
+          "eligible_for_recommendation_average": null,
+          "evidence_location": "主要课程段落",
+          "evidence_status": "name_only_in_official_overview"
+        },
+        {
+          "name": "概率论与数理统计",
+          "credits": null,
+          "course_code": null,
+          "course_type": null,
+          "semester": null,
+          "syllabus_details": null,
+          "eligible_for_recommendation_average": null,
+          "evidence_location": "主要课程段落",
+          "evidence_status": "name_only_in_official_overview"
+        },
+        {
+          "name": "数据科学导论",
+          "credits": null,
+          "course_code": null,
+          "course_type": null,
+          "semester": null,
+          "syllabus_details": null,
+          "eligible_for_recommendation_average": null,
+          "evidence_location": "主要课程段落",
+          "evidence_status": "name_only_in_official_overview"
+        },
+        {
+          "name": "Python程序设计",
+          "credits": null,
+          "course_code": null,
+          "course_type": null,
+          "semester": null,
+          "syllabus_details": null,
+          "eligible_for_recommendation_average": null,
+          "evidence_location": "主要课程段落",
+          "evidence_status": "name_only_in_official_overview"
+        },
+        {
+          "name": "应用回归分析",
+          "credits": null,
+          "course_code": null,
+          "course_type": null,
+          "semester": null,
+          "syllabus_details": null,
+          "eligible_for_recommendation_average": null,
+          "evidence_location": "主要课程段落",
+          "evidence_status": "name_only_in_official_overview"
+        },
+        {
+          "name": "大数据分析技术",
+          "credits": null,
+          "course_code": null,
+          "course_type": null,
+          "semester": null,
+          "syllabus_details": null,
+          "eligible_for_recommendation_average": null,
+          "evidence_location": "主要课程段落",
+          "evidence_status": "name_only_in_official_overview"
+        },
+        {
+          "name": "机器学习",
+          "credits": null,
+          "course_code": null,
+          "course_type": null,
+          "semester": null,
+          "syllabus_details": null,
+          "eligible_for_recommendation_average": null,
+          "evidence_location": "主要课程段落",
+          "evidence_status": "name_only_in_official_overview"
+        },
+        {
+          "name": "多元统计分析",
+          "credits": null,
+          "course_code": null,
+          "course_type": null,
+          "semester": null,
+          "syllabus_details": null,
+          "eligible_for_recommendation_average": null,
+          "evidence_location": "主要课程段落",
+          "evidence_status": "name_only_in_official_overview"
+        },
+        {
+          "name": "统计计算与软件",
+          "credits": null,
+          "course_code": null,
+          "course_type": null,
+          "semester": null,
+          "syllabus_details": null,
+          "eligible_for_recommendation_average": null,
+          "evidence_location": "主要课程段落",
+          "evidence_status": "name_only_in_official_overview"
+        },
+        {
+          "name": "随机过程",
+          "credits": null,
+          "course_code": null,
+          "course_type": null,
+          "semester": null,
+          "syllabus_details": null,
+          "eligible_for_recommendation_average": null,
+          "evidence_location": "主要课程段落",
+          "evidence_status": "name_only_in_official_overview"
+        },
+        {
+          "name": "运筹学",
+          "credits": null,
+          "course_code": null,
+          "course_type": null,
+          "semester": null,
+          "syllabus_details": null,
+          "eligible_for_recommendation_average": null,
+          "evidence_location": "主要课程段落",
+          "evidence_status": "name_only_in_official_overview"
+        },
+        {
+          "name": "数学建模",
+          "credits": null,
+          "course_code": null,
+          "course_type": null,
+          "semester": null,
+          "syllabus_details": null,
+          "eligible_for_recommendation_average": null,
+          "evidence_location": "主要课程段落",
+          "evidence_status": "name_only_in_official_overview"
+        },
+        {
+          "name": "生物统计学",
+          "credits": null,
+          "course_code": null,
+          "course_type": null,
+          "semester": null,
+          "syllabus_details": null,
+          "eligible_for_recommendation_average": null,
+          "evidence_location": "主要课程段落",
+          "evidence_status": "name_only_in_official_overview"
+        },
+        {
+          "name": "时间序列分析",
+          "credits": null,
+          "course_code": null,
+          "course_type": null,
+          "semester": null,
+          "syllabus_details": null,
+          "eligible_for_recommendation_average": null,
+          "evidence_location": "主要课程段落",
+          "evidence_status": "name_only_in_official_overview"
+        },
+        {
+          "name": "保险精算",
+          "credits": null,
+          "course_code": null,
+          "course_type": null,
+          "semester": null,
+          "syllabus_details": null,
+          "eligible_for_recommendation_average": null,
+          "evidence_location": "主要课程段落",
+          "evidence_status": "name_only_in_official_overview"
+        },
+        {
+          "name": "网络技术",
+          "credits": null,
+          "course_code": null,
+          "course_type": null,
+          "semester": null,
+          "syllabus_details": null,
+          "eligible_for_recommendation_average": null,
+          "evidence_location": "主要课程段落",
+          "evidence_status": "name_only_in_official_overview"
+        },
+        {
+          "name": "贝叶斯统计",
+          "credits": null,
+          "course_code": null,
+          "course_type": null,
+          "semester": null,
+          "syllabus_details": null,
+          "eligible_for_recommendation_average": null,
+          "evidence_location": "主要课程段落",
+          "evidence_status": "name_only_in_official_overview"
+        },
+        {
+          "name": "非参数统计",
+          "credits": null,
+          "course_code": null,
+          "course_type": null,
+          "semester": null,
+          "syllabus_details": null,
+          "eligible_for_recommendation_average": null,
+          "evidence_location": "主要课程段落",
+          "evidence_status": "name_only_in_official_overview"
+        },
+        {
+          "name": "市场调研与预测",
+          "credits": null,
+          "course_code": null,
+          "course_type": null,
+          "semester": null,
+          "syllabus_details": null,
+          "eligible_for_recommendation_average": null,
+          "evidence_location": "主要课程段落",
+          "evidence_status": "name_only_in_official_overview"
+        },
+        {
+          "name": "试验设计",
+          "credits": null,
+          "course_code": null,
+          "course_type": null,
+          "semester": null,
+          "syllabus_details": null,
+          "eligible_for_recommendation_average": null,
+          "evidence_location": "主要课程段落",
+          "evidence_status": "name_only_in_official_overview"
+        },
+        {
+          "name": "WEB数据挖掘",
+          "credits": null,
+          "course_code": null,
+          "course_type": null,
+          "semester": null,
+          "syllabus_details": null,
+          "eligible_for_recommendation_average": null,
+          "evidence_location": "主要课程段落",
+          "evidence_status": "name_only_in_official_overview"
+        },
+        {
+          "name": "自然语言处理与文本挖掘",
+          "credits": null,
+          "course_code": null,
+          "course_type": null,
+          "semester": null,
+          "syllabus_details": null,
+          "eligible_for_recommendation_average": null,
+          "evidence_location": "主要课程段落",
+          "evidence_status": "name_only_in_official_overview"
+        },
+        {
+          "name": "网络爬虫与信息采集",
+          "credits": null,
+          "course_code": null,
+          "course_type": null,
+          "semester": null,
+          "syllabus_details": null,
+          "eligible_for_recommendation_average": null,
+          "evidence_location": "主要课程段落",
+          "evidence_status": "name_only_in_official_overview"
+        },
+        {
+          "name": "数据科学应用案例",
+          "credits": null,
+          "course_code": null,
+          "course_type": null,
+          "semester": null,
+          "syllabus_details": null,
+          "eligible_for_recommendation_average": null,
+          "evidence_location": "主要课程段落",
+          "evidence_status": "name_only_in_official_overview"
+        },
+        {
+          "name": "统计分析报告撰写",
+          "credits": null,
+          "course_code": null,
+          "course_type": null,
+          "semester": null,
+          "syllabus_details": null,
+          "eligible_for_recommendation_average": null,
+          "evidence_location": "主要课程段落",
+          "evidence_status": "name_only_in_official_overview"
+        },
+        {
+          "name": "国民经济统计学",
+          "credits": null,
+          "course_code": null,
+          "course_type": null,
+          "semester": null,
+          "syllabus_details": null,
+          "eligible_for_recommendation_average": null,
+          "evidence_location": "主要课程段落",
+          "evidence_status": "name_only_in_official_overview"
+        }
+      ],
+      "full_course_list_obtained": false,
+      "per_course_credits_obtained": false
+    },
+    {
+      "source_id": "P04",
+      "programme": "经济统计学",
+      "role": "public_summary",
+      "published_on": "2024-10-09",
+      "source": {
+        "url": "https://tjysjkx.jlufe.edu.cn/info/1084/3258.htm",
+        "downloaded_on": "2026-11-10",
+        "retrieval_status": "complete_html_archive",
+        "local_file": "pages/3258.html",
+        "bytes": 35566,
+        "sha256": "cb08fee5efc212a705a800a2da927c426e53695c01a84b9563dae518f7c89f6f"
+      },
+      "extracted_file": "extracted/P04.txt",
+      "article_text_sha256": "ca2b84b21734e4bae0df802013b098e12a473a40c1326e056ff31828006926f0",
+      "cohorts_named_in_attachment_labels": [
+        2019
+      ],
+      "cohort_applicability_verified_from_course_table": false,
+      "cohort_evidence_note": "附件标题年级仅为定位线索；发布日期不代表入学年级；逐课表未取得，其他年级适用性未知。",
+      "attachment_labels": [
+        "附件1：2019级经济统计学专业培养方案（按课程）",
+        "附件2：2019级经济统计学专业培养方案（按进程）"
+      ],
+      "article_link_targets": [],
+      "article_embedded_sources": [],
+      "graduation_credits": {
+        "theory": 128,
+        "practice": 31,
+        "total": 159,
+        "basis": "stated_in_article"
+      },
+      "module_credits": [
+        {
+          "name": "通识必修课",
+          "credits": 52.0
+        },
+        {
+          "name": "通识选修课",
+          "credits": 10.0
+        },
+        {
+          "name": "学科必修课",
+          "credits": 25.0
+        },
+        {
+          "name": "学科选修课",
+          "credits": 8.0
+        },
+        {
+          "name": "专业必修课",
+          "credits": 21.0
+        },
+        {
+          "name": "专业选修课",
+          "credits": 12.0
+        },
+        {
+          "name": "通识实践",
+          "credits": 16.0
+        },
+        {
+          "name": "专业实践",
+          "credits": 11.0
+        },
+        {
+          "name": "创新创业实践",
+          "credits": 4.0
+        }
+      ],
+      "main_courses": [
+        {
+          "name": "微观经济学",
+          "credits": null,
+          "course_code": null,
+          "course_type": null,
+          "semester": null,
+          "syllabus_details": null,
+          "eligible_for_recommendation_average": null,
+          "evidence_location": "主要课程段落",
+          "evidence_status": "name_only_in_official_overview"
+        },
+        {
+          "name": "宏观经济学",
+          "credits": null,
+          "course_code": null,
+          "course_type": null,
+          "semester": null,
+          "syllabus_details": null,
+          "eligible_for_recommendation_average": null,
+          "evidence_location": "主要课程段落",
+          "evidence_status": "name_only_in_official_overview"
+        },
+        {
+          "name": "统计学",
+          "credits": null,
+          "course_code": null,
+          "course_type": null,
+          "semester": null,
+          "syllabus_details": null,
+          "eligible_for_recommendation_average": null,
+          "evidence_location": "主要课程段落",
+          "evidence_status": "name_only_in_official_overview"
+        },
+        {
+          "name": "会计学",
+          "credits": null,
+          "course_code": null,
+          "course_type": null,
+          "semester": null,
+          "syllabus_details": null,
+          "eligible_for_recommendation_average": null,
+          "evidence_location": "主要课程段落",
+          "evidence_status": "name_only_in_official_overview"
+        },
+        {
+          "name": "计量经济学",
+          "credits": null,
+          "course_code": null,
+          "course_type": null,
+          "semester": null,
+          "syllabus_details": null,
+          "eligible_for_recommendation_average": null,
+          "evidence_location": "主要课程段落",
+          "evidence_status": "name_only_in_official_overview"
+        },
+        {
+          "name": "财政学",
+          "credits": null,
+          "course_code": null,
+          "course_type": null,
+          "semester": null,
+          "syllabus_details": null,
+          "eligible_for_recommendation_average": null,
+          "evidence_location": "主要课程段落",
+          "evidence_status": "name_only_in_official_overview"
+        },
+        {
+          "name": "货币银行学",
+          "credits": null,
+          "course_code": null,
+          "course_type": null,
+          "semester": null,
+          "syllabus_details": null,
+          "eligible_for_recommendation_average": null,
+          "evidence_location": "主要课程段落",
+          "evidence_status": "name_only_in_official_overview"
+        },
+        {
+          "name": "非参数统计",
+          "credits": null,
+          "course_code": null,
+          "course_type": null,
+          "semester": null,
+          "syllabus_details": null,
+          "eligible_for_recommendation_average": null,
+          "evidence_location": "主要课程段落",
+          "evidence_status": "name_only_in_official_overview"
+        },
+        {
+          "name": "市场调研与预测",
+          "credits": null,
+          "course_code": null,
+          "course_type": null,
+          "semester": null,
+          "syllabus_details": null,
+          "eligible_for_recommendation_average": null,
+          "evidence_location": "主要课程段落",
+          "evidence_status": "name_only_in_official_overview"
+        },
+        {
+          "name": "经济预测与决策",
+          "credits": null,
+          "course_code": null,
+          "course_type": null,
+          "semester": null,
+          "syllabus_details": null,
+          "eligible_for_recommendation_average": null,
+          "evidence_location": "主要课程段落",
+          "evidence_status": "name_only_in_official_overview"
+        },
+        {
+          "name": "抽样技术",
+          "credits": null,
+          "course_code": null,
+          "course_type": null,
+          "semester": null,
+          "syllabus_details": null,
+          "eligible_for_recommendation_average": null,
+          "evidence_location": "主要课程段落",
+          "evidence_status": "name_only_in_official_overview"
+        },
+        {
+          "name": "企业经营统计学",
+          "credits": null,
+          "course_code": null,
+          "course_type": null,
+          "semester": null,
+          "syllabus_details": null,
+          "eligible_for_recommendation_average": null,
+          "evidence_location": "主要课程段落",
+          "evidence_status": "name_only_in_official_overview"
+        },
+        {
+          "name": "运筹学",
+          "credits": null,
+          "course_code": null,
+          "course_type": null,
+          "semester": null,
+          "syllabus_details": null,
+          "eligible_for_recommendation_average": null,
+          "evidence_location": "主要课程段落",
+          "evidence_status": "name_only_in_official_overview"
+        },
+        {
+          "name": "应用多元统计分析",
+          "credits": null,
+          "course_code": null,
+          "course_type": null,
+          "semester": null,
+          "syllabus_details": null,
+          "eligible_for_recommendation_average": null,
+          "evidence_location": "主要课程段落",
+          "evidence_status": "name_only_in_official_overview"
+        },
+        {
+          "name": "应用时间序列分析",
+          "credits": null,
+          "course_code": null,
+          "course_type": null,
+          "semester": null,
+          "syllabus_details": null,
+          "eligible_for_recommendation_average": null,
+          "evidence_location": "主要课程段落",
+          "evidence_status": "name_only_in_official_overview"
+        },
+        {
+          "name": "国民经济统计学",
+          "credits": null,
+          "course_code": null,
+          "course_type": null,
+          "semester": null,
+          "syllabus_details": null,
+          "eligible_for_recommendation_average": null,
+          "evidence_location": "主要课程段落",
+          "evidence_status": "name_only_in_official_overview"
+        },
+        {
+          "name": "C语言程序设计",
+          "credits": null,
+          "course_code": null,
+          "course_type": null,
+          "semester": null,
+          "syllabus_details": null,
+          "eligible_for_recommendation_average": null,
+          "evidence_location": "主要课程段落",
+          "evidence_status": "name_only_in_official_overview"
+        },
+        {
+          "name": "Python数据分析",
+          "credits": null,
+          "course_code": null,
+          "course_type": null,
+          "semester": null,
+          "syllabus_details": null,
+          "eligible_for_recommendation_average": null,
+          "evidence_location": "主要课程段落",
+          "evidence_status": "name_only_in_official_overview"
+        },
+        {
+          "name": "SAS统计分析软件",
+          "credits": null,
+          "course_code": null,
+          "course_type": null,
+          "semester": null,
+          "syllabus_details": null,
+          "eligible_for_recommendation_average": null,
+          "evidence_location": "主要课程段落",
+          "evidence_status": "name_only_in_official_overview"
+        },
+        {
+          "name": "数据挖掘技术导论",
+          "credits": null,
+          "course_code": null,
+          "course_type": null,
+          "semester": null,
+          "syllabus_details": null,
+          "eligible_for_recommendation_average": null,
+          "evidence_location": "主要课程段落",
+          "evidence_status": "name_only_in_official_overview"
+        }
+      ],
+      "full_course_list_obtained": false,
+      "per_course_credits_obtained": false
+    },
+    {
+      "source_id": "P05",
+      "programme": "经济统计学（经济数据工程实验班）",
+      "role": "public_summary",
+      "published_on": "2024-10-09",
+      "source": {
+        "url": "https://tjysjkx.jlufe.edu.cn/info/1084/3259.htm",
+        "downloaded_on": "2026-11-10",
+        "retrieval_status": "complete_html_archive",
+        "local_file": "pages/3259.html",
+        "bytes": 39189,
+        "sha256": "76490584855fd79a158f6497b7b27780f673db72b5d4439617ebea9fa1b5ffb6"
+      },
+      "extracted_file": "extracted/P05.txt",
+      "article_text_sha256": "2f9b25eb3567c2d759e91fce1de2567ea7958cb152447e28c4919c5b6e74f585",
+      "cohorts_named_in_attachment_labels": [
+        2023
+      ],
+      "cohort_applicability_verified_from_course_table": false,
+      "cohort_evidence_note": "附件标题年级仅为定位线索；发布日期不代表入学年级；逐课表未取得，其他年级适用性未知。",
+      "attachment_labels": [
+        "附件1：2023级经济统计学（经济数据工程实验班）培养方案（按课程）",
+        "附件2：2023级经济统计学（经济数据工程实验班）培养方案（按进程）"
+      ],
+      "article_link_targets": [],
+      "article_embedded_sources": [],
+      "graduation_credits": {
+        "theory": 129,
+        "practice": 33,
+        "total": 162,
+        "basis": "stated_in_article"
+      },
+      "module_credits": [
+        {
+          "name": "通识必修课",
+          "credits": 53.0
+        },
+        {
+          "name": "通识选修课",
+          "credits": 10.0
+        },
+        {
+          "name": "学科必修课",
+          "credits": 25.0
+        },
+        {
+          "name": "学科选修课",
+          "credits": 8.0
+        },
+        {
+          "name": "专业必修课",
+          "credits": 21.0
+        },
+        {
+          "name": "专业选修课",
+          "credits": 12.0
+        },
+        {
+          "name": "通识实践",
+          "credits": 18.0
+        },
+        {
+          "name": "专业实践",
+          "credits": 11.0
+        },
+        {
+          "name": "创新创业实践",
+          "credits": 4.0
+        }
+      ],
+      "main_courses": [
+        {
+          "name": "微观经济学",
+          "credits": null,
+          "course_code": null,
+          "course_type": null,
+          "semester": null,
+          "syllabus_details": null,
+          "eligible_for_recommendation_average": null,
+          "evidence_location": "主要课程段落",
+          "evidence_status": "name_only_in_official_overview"
+        },
+        {
+          "name": "宏观经济学",
+          "credits": null,
+          "course_code": null,
+          "course_type": null,
+          "semester": null,
+          "syllabus_details": null,
+          "eligible_for_recommendation_average": null,
+          "evidence_location": "主要课程段落",
+          "evidence_status": "name_only_in_official_overview"
+        },
+        {
+          "name": "统计学",
+          "credits": null,
+          "course_code": null,
+          "course_type": null,
+          "semester": null,
+          "syllabus_details": null,
+          "eligible_for_recommendation_average": null,
+          "evidence_location": "主要课程段落",
+          "evidence_status": "name_only_in_official_overview"
+        },
+        {
+          "name": "会计学",
+          "credits": null,
+          "course_code": null,
+          "course_type": null,
+          "semester": null,
+          "syllabus_details": null,
+          "eligible_for_recommendation_average": null,
+          "evidence_location": "主要课程段落",
+          "evidence_status": "name_only_in_official_overview"
+        },
+        {
+          "name": "计量经济学",
+          "credits": null,
+          "course_code": null,
+          "course_type": null,
+          "semester": null,
+          "syllabus_details": null,
+          "eligible_for_recommendation_average": null,
+          "evidence_location": "主要课程段落",
+          "evidence_status": "name_only_in_official_overview"
+        },
+        {
+          "name": "财政学",
+          "credits": null,
+          "course_code": null,
+          "course_type": null,
+          "semester": null,
+          "syllabus_details": null,
+          "eligible_for_recommendation_average": null,
+          "evidence_location": "主要课程段落",
+          "evidence_status": "name_only_in_official_overview"
+        },
+        {
+          "name": "货币银行学",
+          "credits": null,
+          "course_code": null,
+          "course_type": null,
+          "semester": null,
+          "syllabus_details": null,
+          "eligible_for_recommendation_average": null,
+          "evidence_location": "主要课程段落",
+          "evidence_status": "name_only_in_official_overview"
+        },
+        {
+          "name": "非参数统计",
+          "credits": null,
+          "course_code": null,
+          "course_type": null,
+          "semester": null,
+          "syllabus_details": null,
+          "eligible_for_recommendation_average": null,
+          "evidence_location": "主要课程段落",
+          "evidence_status": "name_only_in_official_overview"
+        },
+        {
+          "name": "市场调研与预测",
+          "credits": null,
+          "course_code": null,
+          "course_type": null,
+          "semester": null,
+          "syllabus_details": null,
+          "eligible_for_recommendation_average": null,
+          "evidence_location": "主要课程段落",
+          "evidence_status": "name_only_in_official_overview"
+        },
+        {
+          "name": "随机过程",
+          "credits": null,
+          "course_code": null,
+          "course_type": null,
+          "semester": null,
+          "syllabus_details": null,
+          "eligible_for_recommendation_average": null,
+          "evidence_location": "主要课程段落",
+          "evidence_status": "name_only_in_official_overview"
+        },
+        {
+          "name": "数据挖掘技术导论",
+          "credits": null,
+          "course_code": null,
+          "course_type": null,
+          "semester": null,
+          "syllabus_details": null,
+          "eligible_for_recommendation_average": null,
+          "evidence_location": "主要课程段落",
+          "evidence_status": "name_only_in_official_overview"
+        },
+        {
+          "name": "企业经营统计学",
+          "credits": null,
+          "course_code": null,
+          "course_type": null,
+          "semester": null,
+          "syllabus_details": null,
+          "eligible_for_recommendation_average": null,
+          "evidence_location": "主要课程段落",
+          "evidence_status": "name_only_in_official_overview"
+        },
+        {
+          "name": "Python数据分析",
+          "credits": null,
+          "course_code": null,
+          "course_type": null,
+          "semester": null,
+          "syllabus_details": null,
+          "eligible_for_recommendation_average": null,
+          "evidence_location": "主要课程段落",
+          "evidence_status": "name_only_in_official_overview"
+        },
+        {
+          "name": "应用时间序列分析",
+          "credits": null,
+          "course_code": null,
+          "course_type": null,
+          "semester": null,
+          "syllabus_details": null,
+          "eligible_for_recommendation_average": null,
+          "evidence_location": "主要课程段落",
+          "evidence_status": "name_only_in_official_overview"
+        },
+        {
+          "name": "国民经济统计学",
+          "credits": null,
+          "course_code": null,
+          "course_type": null,
+          "semester": null,
+          "syllabus_details": null,
+          "eligible_for_recommendation_average": null,
+          "evidence_location": "主要课程段落",
+          "evidence_status": "name_only_in_official_overview"
+        },
+        {
+          "name": "应用多元统计分析",
+          "credits": null,
+          "course_code": null,
+          "course_type": null,
+          "semester": null,
+          "syllabus_details": null,
+          "eligible_for_recommendation_average": null,
+          "evidence_location": "主要课程段落",
+          "evidence_status": "name_only_in_official_overview"
+        },
+        {
+          "name": "网络技术",
+          "credits": null,
+          "course_code": null,
+          "course_type": null,
+          "semester": null,
+          "syllabus_details": null,
+          "eligible_for_recommendation_average": null,
+          "evidence_location": "主要课程段落",
+          "evidence_status": "name_only_in_official_overview"
+        },
+        {
+          "name": "经济预测与决策",
+          "credits": null,
+          "course_code": null,
+          "course_type": null,
+          "semester": null,
+          "syllabus_details": null,
+          "eligible_for_recommendation_average": null,
+          "evidence_location": "主要课程段落",
+          "evidence_status": "name_only_in_official_overview"
+        },
+        {
+          "name": "机器学习",
+          "credits": null,
+          "course_code": null,
+          "course_type": null,
+          "semester": null,
+          "syllabus_details": null,
+          "eligible_for_recommendation_average": null,
+          "evidence_location": "主要课程段落",
+          "evidence_status": "name_only_in_official_overview"
+        },
+        {
+          "name": "C语言程序设计",
+          "credits": null,
+          "course_code": null,
+          "course_type": null,
+          "semester": null,
+          "syllabus_details": null,
+          "eligible_for_recommendation_average": null,
+          "evidence_location": "主要课程段落",
+          "evidence_status": "name_only_in_official_overview"
+        },
+        {
+          "name": "分布式系统与并行计算",
+          "credits": null,
+          "course_code": null,
+          "course_type": null,
+          "semester": null,
+          "syllabus_details": null,
+          "eligible_for_recommendation_average": null,
+          "evidence_location": "主要课程段落",
+          "evidence_status": "name_only_in_official_overview"
+        },
+        {
+          "name": "SAS统计分析软件",
+          "credits": null,
+          "course_code": null,
+          "course_type": null,
+          "semester": null,
+          "syllabus_details": null,
+          "eligible_for_recommendation_average": null,
+          "evidence_location": "主要课程段落",
+          "evidence_status": "name_only_in_official_overview"
+        }
+      ],
+      "full_course_list_obtained": false,
+      "per_course_credits_obtained": false
+    },
+    {
+      "source_id": "P06",
+      "programme": "数学与应用数学（保险精算方向）",
+      "role": "historical_summary",
+      "published_on": "2019-06-21",
+      "source": {
+        "url": "https://tjysjkx.jlufe.edu.cn/info/1084/4845.htm",
+        "downloaded_on": "2026-11-10",
+        "retrieval_status": "complete_html_archive",
+        "local_file": "pages/4845.html",
+        "bytes": 29118,
+        "sha256": "fc2b02aa00f318d912a4d6dbc789b10e6fb819baaeae47a3a699c3468c60b556"
+      },
+      "extracted_file": "extracted/P06.txt",
+      "article_text_sha256": "07b52ab3bd2cc92bbe4da2c5d2094748ea6ed49356491336d3e5f578303eb585",
+      "cohorts_named_in_attachment_labels": [],
+      "cohort_applicability_verified_from_course_table": false,
+      "cohort_evidence_note": "附件标题年级仅为定位线索；发布日期不代表入学年级；逐课表未取得，其他年级适用性未知。",
+      "attachment_labels": [],
+      "article_link_targets": [],
+      "article_embedded_sources": [],
+      "graduation_credits": {
+        "theory": 129,
+        "practice": 31,
+        "total": 160.0,
+        "basis": "sum_of_stated_modules"
+      },
+      "module_credits": [
+        {
+          "name": "通识基础课",
+          "credits": 43.0
+        },
+        {
+          "name": "通识选修课",
+          "credits": 10.0
+        },
+        {
+          "name": "学科基础课",
+          "credits": 31.0
+        },
+        {
+          "name": "学科选修课",
+          "credits": 10.0
+        },
+        {
+          "name": "专业主干课",
+          "credits": 21.0
+        },
+        {
+          "name": "专业选修课",
+          "credits": 14.0
+        },
+        {
+          "name": "通识实践",
+          "credits": 12.0
+        },
+        {
+          "name": "专业实践",
+          "credits": 9.0
+        },
+        {
+          "name": "综合实践",
+          "credits": 10.0
+        }
+      ],
+      "main_courses": [
+        {
+          "name": "数学分析",
+          "credits": null,
+          "course_code": null,
+          "course_type": null,
+          "semester": null,
+          "syllabus_details": null,
+          "eligible_for_recommendation_average": null,
+          "evidence_location": "主要课程段落",
+          "evidence_status": "name_only_in_official_overview"
+        },
+        {
+          "name": "高等代数",
+          "credits": null,
+          "course_code": null,
+          "course_type": null,
+          "semester": null,
+          "syllabus_details": null,
+          "eligible_for_recommendation_average": null,
+          "evidence_location": "主要课程段落",
+          "evidence_status": "name_only_in_official_overview"
+        },
+        {
+          "name": "概率论与数理统计",
+          "credits": null,
+          "course_code": null,
+          "course_type": null,
+          "semester": null,
+          "syllabus_details": null,
+          "eligible_for_recommendation_average": null,
+          "evidence_location": "主要课程段落",
+          "evidence_status": "name_only_in_official_overview"
+        },
+        {
+          "name": "政治经济学",
+          "credits": null,
+          "course_code": null,
+          "course_type": null,
+          "semester": null,
+          "syllabus_details": null,
+          "eligible_for_recommendation_average": null,
+          "evidence_location": "主要课程段落",
+          "evidence_status": "name_only_in_official_overview"
+        },
+        {
+          "name": "微观经济学",
+          "credits": null,
+          "course_code": null,
+          "course_type": null,
+          "semester": null,
+          "syllabus_details": null,
+          "eligible_for_recommendation_average": null,
+          "evidence_location": "主要课程段落",
+          "evidence_status": "name_only_in_official_overview"
+        },
+        {
+          "name": "宏观经济学",
+          "credits": null,
+          "course_code": null,
+          "course_type": null,
+          "semester": null,
+          "syllabus_details": null,
+          "eligible_for_recommendation_average": null,
+          "evidence_location": "主要课程段落",
+          "evidence_status": "name_only_in_official_overview"
+        },
+        {
+          "name": "保险学",
+          "credits": null,
+          "course_code": null,
+          "course_type": null,
+          "semester": null,
+          "syllabus_details": null,
+          "eligible_for_recommendation_average": null,
+          "evidence_location": "主要课程段落",
+          "evidence_status": "name_only_in_official_overview"
+        },
+        {
+          "name": "风险理论",
+          "credits": null,
+          "course_code": null,
+          "course_type": null,
+          "semester": null,
+          "syllabus_details": null,
+          "eligible_for_recommendation_average": null,
+          "evidence_location": "主要课程段落",
+          "evidence_status": "name_only_in_official_overview"
+        },
+        {
+          "name": "利息理论",
+          "credits": null,
+          "course_code": null,
+          "course_type": null,
+          "semester": null,
+          "syllabus_details": null,
+          "eligible_for_recommendation_average": null,
+          "evidence_location": "主要课程段落",
+          "evidence_status": "name_only_in_official_overview"
+        },
+        {
+          "name": "生存模型",
+          "credits": null,
+          "course_code": null,
+          "course_type": null,
+          "semester": null,
+          "syllabus_details": null,
+          "eligible_for_recommendation_average": null,
+          "evidence_location": "主要课程段落",
+          "evidence_status": "name_only_in_official_overview"
+        },
+        {
+          "name": "寿险精算数学",
+          "credits": null,
+          "course_code": null,
+          "course_type": null,
+          "semester": null,
+          "syllabus_details": null,
+          "eligible_for_recommendation_average": null,
+          "evidence_location": "主要课程段落",
+          "evidence_status": "name_only_in_official_overview"
+        },
+        {
+          "name": "非寿险精算数学",
+          "credits": null,
+          "course_code": null,
+          "course_type": null,
+          "semester": null,
+          "syllabus_details": null,
+          "eligible_for_recommendation_average": null,
+          "evidence_location": "主要课程段落",
+          "evidence_status": "name_only_in_official_overview"
+        },
+        {
+          "name": "随机过程",
+          "credits": null,
+          "course_code": null,
+          "course_type": null,
+          "semester": null,
+          "syllabus_details": null,
+          "eligible_for_recommendation_average": null,
+          "evidence_location": "主要课程段落",
+          "evidence_status": "name_only_in_official_overview"
+        },
+        {
+          "name": "统计学",
+          "credits": null,
+          "course_code": null,
+          "course_type": null,
+          "semester": null,
+          "syllabus_details": null,
+          "eligible_for_recommendation_average": null,
+          "evidence_location": "主要课程段落",
+          "evidence_status": "name_only_in_official_overview"
+        },
+        {
+          "name": "运筹学",
+          "credits": null,
+          "course_code": null,
+          "course_type": null,
+          "semester": null,
+          "syllabus_details": null,
+          "eligible_for_recommendation_average": null,
+          "evidence_location": "主要课程段落",
+          "evidence_status": "name_only_in_official_overview"
+        },
+        {
+          "name": "常微分方程",
+          "credits": null,
+          "course_code": null,
+          "course_type": null,
+          "semester": null,
+          "syllabus_details": null,
+          "eligible_for_recommendation_average": null,
+          "evidence_location": "主要课程段落",
+          "evidence_status": "name_only_in_official_overview"
+        },
+        {
+          "name": "金融数学",
+          "credits": null,
+          "course_code": null,
+          "course_type": null,
+          "semester": null,
+          "syllabus_details": null,
+          "eligible_for_recommendation_average": null,
+          "evidence_location": "主要课程段落",
+          "evidence_status": "name_only_in_official_overview"
+        },
+        {
+          "name": "计量经济学",
+          "credits": null,
+          "course_code": null,
+          "course_type": null,
+          "semester": null,
+          "syllabus_details": null,
+          "eligible_for_recommendation_average": null,
+          "evidence_location": "主要课程段落",
+          "evidence_status": "name_only_in_official_overview"
+        },
+        {
+          "name": "金融衍生工具定价",
+          "credits": null,
+          "course_code": null,
+          "course_type": null,
+          "semester": null,
+          "syllabus_details": null,
+          "eligible_for_recommendation_average": null,
+          "evidence_location": "主要课程段落",
+          "evidence_status": "name_only_in_official_overview"
+        },
+        {
+          "name": "保险精算实践",
+          "credits": null,
+          "course_code": null,
+          "course_type": null,
+          "semester": null,
+          "syllabus_details": null,
+          "eligible_for_recommendation_average": null,
+          "evidence_location": "主要课程段落",
+          "evidence_status": "name_only_in_official_overview"
+        },
+        {
+          "name": "精算管理",
+          "credits": null,
+          "course_code": null,
+          "course_type": null,
+          "semester": null,
+          "syllabus_details": null,
+          "eligible_for_recommendation_average": null,
+          "evidence_location": "主要课程段落",
+          "evidence_status": "name_only_in_official_overview"
+        },
+        {
+          "name": "数学建模",
+          "credits": null,
+          "course_code": null,
+          "course_type": null,
+          "semester": null,
+          "syllabus_details": null,
+          "eligible_for_recommendation_average": null,
+          "evidence_location": "主要课程段落",
+          "evidence_status": "name_only_in_official_overview"
+        },
+        {
+          "name": "专业综合实验",
+          "credits": null,
+          "course_code": null,
+          "course_type": null,
+          "semester": null,
+          "syllabus_details": null,
+          "eligible_for_recommendation_average": null,
+          "evidence_location": "主要课程段落",
+          "evidence_status": "name_only_in_official_overview"
+        }
+      ],
+      "full_course_list_obtained": false,
+      "per_course_credits_obtained": false
+    },
+    {
+      "source_id": "H01",
+      "programme": "统计学",
+      "role": "historical_summary",
+      "published_on": "2019-06-28",
+      "source": {
+        "url": "https://tjysjkx.jlufe.edu.cn/info/1084/1489.htm",
+        "downloaded_on": "2026-11-10",
+        "retrieval_status": "complete_html_archive",
+        "local_file": "pages/1489.html",
+        "bytes": 19332,
+        "sha256": "3886203c99eab90f2629fd784c1491cf2cc7630c77854a04f798d2ee556d7043"
+      },
+      "extracted_file": "extracted/H01.txt",
+      "article_text_sha256": "7583b8b2c6d87d21c23b11cca22812bffc79e14d66c29d5d8ab7d37dc3d299cb",
+      "cohorts_named_in_attachment_labels": [],
+      "cohort_applicability_verified_from_course_table": false,
+      "cohort_evidence_note": "附件标题年级仅为定位线索；发布日期不代表入学年级；逐课表未取得，其他年级适用性未知。",
+      "attachment_labels": [],
+      "article_link_targets": [],
+      "article_embedded_sources": [],
+      "graduation_credits": null,
+      "module_credits": [],
+      "main_courses": [
+        {
+          "name": "数学分析1",
+          "credits": null,
+          "course_code": null,
+          "course_type": null,
+          "semester": null,
+          "syllabus_details": null,
+          "eligible_for_recommendation_average": null,
+          "evidence_location": "主要课程段落",
+          "evidence_status": "name_only_in_official_overview"
+        },
+        {
+          "name": "数学分析2",
+          "credits": null,
+          "course_code": null,
+          "course_type": null,
+          "semester": null,
+          "syllabus_details": null,
+          "eligible_for_recommendation_average": null,
+          "evidence_location": "主要课程段落",
+          "evidence_status": "name_only_in_official_overview"
+        },
+        {
+          "name": "高等代数",
+          "credits": null,
+          "course_code": null,
+          "course_type": null,
+          "semester": null,
+          "syllabus_details": null,
+          "eligible_for_recommendation_average": null,
+          "evidence_location": "主要课程段落",
+          "evidence_status": "name_only_in_official_overview"
+        },
+        {
+          "name": "西方经济学",
+          "credits": null,
+          "course_code": null,
+          "course_type": null,
+          "semester": null,
+          "syllabus_details": null,
+          "eligible_for_recommendation_average": null,
+          "evidence_location": "主要课程段落",
+          "evidence_status": "name_only_in_official_overview"
+        },
+        {
+          "name": "统计学",
+          "credits": null,
+          "course_code": null,
+          "course_type": null,
+          "semester": null,
+          "syllabus_details": null,
+          "eligible_for_recommendation_average": null,
+          "evidence_location": "主要课程段落",
+          "evidence_status": "name_only_in_official_overview"
+        },
+        {
+          "name": "概率论",
+          "credits": null,
+          "course_code": null,
+          "course_type": null,
+          "semester": null,
+          "syllabus_details": null,
+          "eligible_for_recommendation_average": null,
+          "evidence_location": "主要课程段落",
+          "evidence_status": "name_only_in_official_overview"
+        },
+        {
+          "name": "数学建模",
+          "credits": null,
+          "course_code": null,
+          "course_type": null,
+          "semester": null,
+          "syllabus_details": null,
+          "eligible_for_recommendation_average": null,
+          "evidence_location": "主要课程段落",
+          "evidence_status": "name_only_in_official_overview"
+        },
+        {
+          "name": "非参数统计",
+          "credits": null,
+          "course_code": null,
+          "course_type": null,
+          "semester": null,
+          "syllabus_details": null,
+          "eligible_for_recommendation_average": null,
+          "evidence_location": "主要课程段落",
+          "evidence_status": "name_only_in_official_overview"
+        },
+        {
+          "name": "应用回归分析",
+          "credits": null,
+          "course_code": null,
+          "course_type": null,
+          "semester": null,
+          "syllabus_details": null,
+          "eligible_for_recommendation_average": null,
+          "evidence_location": "主要课程段落",
+          "evidence_status": "name_only_in_official_overview"
+        },
+        {
+          "name": "数理统计",
+          "credits": null,
+          "course_code": null,
+          "course_type": null,
+          "semester": null,
+          "syllabus_details": null,
+          "eligible_for_recommendation_average": null,
+          "evidence_location": "主要课程段落",
+          "evidence_status": "name_only_in_official_overview"
+        },
+        {
+          "name": "随机过程",
+          "credits": null,
+          "course_code": null,
+          "course_type": null,
+          "semester": null,
+          "syllabus_details": null,
+          "eligible_for_recommendation_average": null,
+          "evidence_location": "主要课程段落",
+          "evidence_status": "name_only_in_official_overview"
+        },
+        {
+          "name": "抽样技术",
+          "credits": null,
+          "course_code": null,
+          "course_type": null,
+          "semester": null,
+          "syllabus_details": null,
+          "eligible_for_recommendation_average": null,
+          "evidence_location": "主要课程段落",
+          "evidence_status": "name_only_in_official_overview"
+        },
+        {
+          "name": "多元统计分析",
+          "credits": null,
+          "course_code": null,
+          "course_type": null,
+          "semester": null,
+          "syllabus_details": null,
+          "eligible_for_recommendation_average": null,
+          "evidence_location": "主要课程段落",
+          "evidence_status": "name_only_in_official_overview"
+        },
+        {
+          "name": "时间序列分析",
+          "credits": null,
+          "course_code": null,
+          "course_type": null,
+          "semester": null,
+          "syllabus_details": null,
+          "eligible_for_recommendation_average": null,
+          "evidence_location": "主要课程段落",
+          "evidence_status": "name_only_in_official_overview"
+        },
+        {
+          "name": "统计计算与软件",
+          "credits": null,
+          "course_code": null,
+          "course_type": null,
+          "semester": null,
+          "syllabus_details": null,
+          "eligible_for_recommendation_average": null,
+          "evidence_location": "主要课程段落",
+          "evidence_status": "name_only_in_official_overview"
+        },
+        {
+          "name": "数据挖掘技术导论",
+          "credits": null,
+          "course_code": null,
+          "course_type": null,
+          "semester": null,
+          "syllabus_details": null,
+          "eligible_for_recommendation_average": null,
+          "evidence_location": "主要课程段落",
+          "evidence_status": "name_only_in_official_overview"
+        },
+        {
+          "name": "市场调研与预测",
+          "credits": null,
+          "course_code": null,
+          "course_type": null,
+          "semester": null,
+          "syllabus_details": null,
+          "eligible_for_recommendation_average": null,
+          "evidence_location": "主要课程段落",
+          "evidence_status": "name_only_in_official_overview"
+        },
+        {
+          "name": "经济预测与决策",
+          "credits": null,
+          "course_code": null,
+          "course_type": null,
+          "semester": null,
+          "syllabus_details": null,
+          "eligible_for_recommendation_average": null,
+          "evidence_location": "主要课程段落",
+          "evidence_status": "name_only_in_official_overview"
+        },
+        {
+          "name": "C语言程序设计",
+          "credits": null,
+          "course_code": null,
+          "course_type": null,
+          "semester": null,
+          "syllabus_details": null,
+          "eligible_for_recommendation_average": null,
+          "evidence_location": "主要课程段落",
+          "evidence_status": "name_only_in_official_overview"
+        },
+        {
+          "name": "Python数据分析",
+          "credits": null,
+          "course_code": null,
+          "course_type": null,
+          "semester": null,
+          "syllabus_details": null,
+          "eligible_for_recommendation_average": null,
+          "evidence_location": "主要课程段落",
+          "evidence_status": "name_only_in_official_overview"
+        },
+        {
+          "name": "国民经济统计学",
+          "credits": null,
+          "course_code": null,
+          "course_type": null,
+          "semester": null,
+          "syllabus_details": null,
+          "eligible_for_recommendation_average": null,
+          "evidence_location": "主要课程段落",
+          "evidence_status": "name_only_in_official_overview"
+        },
+        {
+          "name": "实变函数",
+          "credits": null,
+          "course_code": null,
+          "course_type": null,
+          "semester": null,
+          "syllabus_details": null,
+          "eligible_for_recommendation_average": null,
+          "evidence_location": "主要课程段落",
+          "evidence_status": "name_only_in_official_overview"
+        },
+        {
+          "name": "运筹学",
+          "credits": null,
+          "course_code": null,
+          "course_type": null,
+          "semester": null,
+          "syllabus_details": null,
+          "eligible_for_recommendation_average": null,
+          "evidence_location": "主要课程段落",
+          "evidence_status": "name_only_in_official_overview"
+        },
+        {
+          "name": "试验设计",
+          "credits": null,
+          "course_code": null,
+          "course_type": null,
+          "semester": null,
+          "syllabus_details": null,
+          "eligible_for_recommendation_average": null,
+          "evidence_location": "主要课程段落",
+          "evidence_status": "name_only_in_official_overview"
+        }
+      ],
+      "full_course_list_obtained": false,
+      "per_course_credits_obtained": false
+    },
+    {
+      "source_id": "H02",
+      "programme": "应用统计学",
+      "role": "historical_summary",
+      "published_on": "2019-06-28",
+      "source": {
+        "url": "https://tjysjkx.jlufe.edu.cn/info/1084/1490.htm",
+        "downloaded_on": "2026-11-10",
+        "retrieval_status": "complete_html_archive",
+        "local_file": "pages/1490.html",
+        "bytes": 20151,
+        "sha256": "88c96173f85d5ae0c7ce6dcdc955f50bd7a67490e1dd49017b11a767421e559d"
+      },
+      "extracted_file": "extracted/H02.txt",
+      "article_text_sha256": "4bd7e7a27bc596a1f1446856c1494b6a8208e8434ba587800f792afafd21cf01",
+      "cohorts_named_in_attachment_labels": [],
+      "cohort_applicability_verified_from_course_table": false,
+      "cohort_evidence_note": "附件标题年级仅为定位线索；发布日期不代表入学年级；逐课表未取得，其他年级适用性未知。",
+      "attachment_labels": [],
+      "article_link_targets": [],
+      "article_embedded_sources": [],
+      "graduation_credits": null,
+      "module_credits": [],
+      "main_courses": [
+        {
+          "name": "政治经济学",
+          "credits": null,
+          "course_code": null,
+          "course_type": null,
+          "semester": null,
+          "syllabus_details": null,
+          "eligible_for_recommendation_average": null,
+          "evidence_location": "主要课程段落",
+          "evidence_status": "name_only_in_official_overview"
+        },
+        {
+          "name": "数学分析1",
+          "credits": null,
+          "course_code": null,
+          "course_type": null,
+          "semester": null,
+          "syllabus_details": null,
+          "eligible_for_recommendation_average": null,
+          "evidence_location": "主要课程段落",
+          "evidence_status": "name_only_in_official_overview"
+        },
+        {
+          "name": "高等代数",
+          "credits": null,
+          "course_code": null,
+          "course_type": null,
+          "semester": null,
+          "syllabus_details": null,
+          "eligible_for_recommendation_average": null,
+          "evidence_location": "主要课程段落",
+          "evidence_status": "name_only_in_official_overview"
+        },
+        {
+          "name": "西方经济学",
+          "credits": null,
+          "course_code": null,
+          "course_type": null,
+          "semester": null,
+          "syllabus_details": null,
+          "eligible_for_recommendation_average": null,
+          "evidence_location": "主要课程段落",
+          "evidence_status": "name_only_in_official_overview"
+        },
+        {
+          "name": "统计学",
+          "credits": null,
+          "course_code": null,
+          "course_type": null,
+          "semester": null,
+          "syllabus_details": null,
+          "eligible_for_recommendation_average": null,
+          "evidence_location": "主要课程段落",
+          "evidence_status": "name_only_in_official_overview"
+        },
+        {
+          "name": "数学分析2",
+          "credits": null,
+          "course_code": null,
+          "course_type": null,
+          "semester": null,
+          "syllabus_details": null,
+          "eligible_for_recommendation_average": null,
+          "evidence_location": "主要课程段落",
+          "evidence_status": "name_only_in_official_overview"
+        },
+        {
+          "name": "概率论",
+          "credits": null,
+          "course_code": null,
+          "course_type": null,
+          "semester": null,
+          "syllabus_details": null,
+          "eligible_for_recommendation_average": null,
+          "evidence_location": "主要课程段落",
+          "evidence_status": "name_only_in_official_overview"
+        },
+        {
+          "name": "货币银行学",
+          "credits": null,
+          "course_code": null,
+          "course_type": null,
+          "semester": null,
+          "syllabus_details": null,
+          "eligible_for_recommendation_average": null,
+          "evidence_location": "主要课程段落",
+          "evidence_status": "name_only_in_official_overview"
+        },
+        {
+          "name": "非参数统计",
+          "credits": null,
+          "course_code": null,
+          "course_type": null,
+          "semester": null,
+          "syllabus_details": null,
+          "eligible_for_recommendation_average": null,
+          "evidence_location": "主要课程段落",
+          "evidence_status": "name_only_in_official_overview"
+        },
+        {
+          "name": "应用回归分析",
+          "credits": null,
+          "course_code": null,
+          "course_type": null,
+          "semester": null,
+          "syllabus_details": null,
+          "eligible_for_recommendation_average": null,
+          "evidence_location": "主要课程段落",
+          "evidence_status": "name_only_in_official_overview"
+        },
+        {
+          "name": "数理统计",
+          "credits": null,
+          "course_code": null,
+          "course_type": null,
+          "semester": null,
+          "syllabus_details": null,
+          "eligible_for_recommendation_average": null,
+          "evidence_location": "主要课程段落",
+          "evidence_status": "name_only_in_official_overview"
+        },
+        {
+          "name": "随机过程",
+          "credits": null,
+          "course_code": null,
+          "course_type": null,
+          "semester": null,
+          "syllabus_details": null,
+          "eligible_for_recommendation_average": null,
+          "evidence_location": "主要课程段落",
+          "evidence_status": "name_only_in_official_overview"
+        },
+        {
+          "name": "抽样技术",
+          "credits": null,
+          "course_code": null,
+          "course_type": null,
+          "semester": null,
+          "syllabus_details": null,
+          "eligible_for_recommendation_average": null,
+          "evidence_location": "主要课程段落",
+          "evidence_status": "name_only_in_official_overview"
+        },
+        {
+          "name": "多元统计分析",
+          "credits": null,
+          "course_code": null,
+          "course_type": null,
+          "semester": null,
+          "syllabus_details": null,
+          "eligible_for_recommendation_average": null,
+          "evidence_location": "主要课程段落",
+          "evidence_status": "name_only_in_official_overview"
+        },
+        {
+          "name": "时间序列分析",
+          "credits": null,
+          "course_code": null,
+          "course_type": null,
+          "semester": null,
+          "syllabus_details": null,
+          "eligible_for_recommendation_average": null,
+          "evidence_location": "主要课程段落",
+          "evidence_status": "name_only_in_official_overview"
+        },
+        {
+          "name": "证券投资学",
+          "credits": null,
+          "course_code": null,
+          "course_type": null,
+          "semester": null,
+          "syllabus_details": null,
+          "eligible_for_recommendation_average": null,
+          "evidence_location": "主要课程段落",
+          "evidence_status": "name_only_in_official_overview"
+        },
+        {
+          "name": "金融风险管理",
+          "credits": null,
+          "course_code": null,
+          "course_type": null,
+          "semester": null,
+          "syllabus_details": null,
+          "eligible_for_recommendation_average": null,
+          "evidence_location": "主要课程段落",
+          "evidence_status": "name_only_in_official_overview"
+        },
+        {
+          "name": "贝叶斯统计",
+          "credits": null,
+          "course_code": null,
+          "course_type": null,
+          "semester": null,
+          "syllabus_details": null,
+          "eligible_for_recommendation_average": null,
+          "evidence_location": "主要课程段落",
+          "evidence_status": "name_only_in_official_overview"
+        },
+        {
+          "name": "经济预测与决策",
+          "credits": null,
+          "course_code": null,
+          "course_type": null,
+          "semester": null,
+          "syllabus_details": null,
+          "eligible_for_recommendation_average": null,
+          "evidence_location": "主要课程段落",
+          "evidence_status": "name_only_in_official_overview"
+        },
+        {
+          "name": "保险精算",
+          "credits": null,
+          "course_code": null,
+          "course_type": null,
+          "semester": null,
+          "syllabus_details": null,
+          "eligible_for_recommendation_average": null,
+          "evidence_location": "主要课程段落",
+          "evidence_status": "name_only_in_official_overview"
+        },
+        {
+          "name": "C语言程序设计",
+          "credits": null,
+          "course_code": null,
+          "course_type": null,
+          "semester": null,
+          "syllabus_details": null,
+          "eligible_for_recommendation_average": null,
+          "evidence_location": "主要课程段落",
+          "evidence_status": "name_only_in_official_overview"
+        },
+        {
+          "name": "金融衍生品",
+          "credits": null,
+          "course_code": null,
+          "course_type": null,
+          "semester": null,
+          "syllabus_details": null,
+          "eligible_for_recommendation_average": null,
+          "evidence_location": "主要课程段落",
+          "evidence_status": "name_only_in_official_overview"
+        },
+        {
+          "name": "Python数据分析",
+          "credits": null,
+          "course_code": null,
+          "course_type": null,
+          "semester": null,
+          "syllabus_details": null,
+          "eligible_for_recommendation_average": null,
+          "evidence_location": "主要课程段落",
+          "evidence_status": "name_only_in_official_overview"
+        },
+        {
+          "name": "国民经济统计学",
+          "credits": null,
+          "course_code": null,
+          "course_type": null,
+          "semester": null,
+          "syllabus_details": null,
+          "eligible_for_recommendation_average": null,
+          "evidence_location": "主要课程段落",
+          "evidence_status": "name_only_in_official_overview"
+        },
+        {
+          "name": "SAS统计分析软件",
+          "credits": null,
+          "course_code": null,
+          "course_type": null,
+          "semester": null,
+          "syllabus_details": null,
+          "eligible_for_recommendation_average": null,
+          "evidence_location": "主要课程段落",
+          "evidence_status": "name_only_in_official_overview"
+        },
+        {
+          "name": "运筹学",
+          "credits": null,
+          "course_code": null,
+          "course_type": null,
+          "semester": null,
+          "syllabus_details": null,
+          "eligible_for_recommendation_average": null,
+          "evidence_location": "主要课程段落",
+          "evidence_status": "name_only_in_official_overview"
+        },
+        {
+          "name": "探索性数据分析",
+          "credits": null,
+          "course_code": null,
+          "course_type": null,
+          "semester": null,
+          "syllabus_details": null,
+          "eligible_for_recommendation_average": null,
+          "evidence_location": "主要课程段落",
+          "evidence_status": "name_only_in_official_overview"
+        },
+        {
+          "name": "试验设计",
+          "credits": null,
+          "course_code": null,
+          "course_type": null,
+          "semester": null,
+          "syllabus_details": null,
+          "eligible_for_recommendation_average": null,
+          "evidence_location": "主要课程段落",
+          "evidence_status": "name_only_in_official_overview"
+        }
+      ],
+      "full_course_list_obtained": false,
+      "per_course_credits_obtained": false
+    },
+    {
+      "source_id": "H03",
+      "programme": "应用统计学",
+      "role": "historical_summary",
+      "published_on": "2019-06-28",
+      "source": {
+        "url": "https://tjysjkx.jlufe.edu.cn/info/1084/1491.htm",
+        "downloaded_on": "2026-11-10",
+        "retrieval_status": "complete_html_archive",
+        "local_file": "pages/1491.html",
+        "bytes": 20151,
+        "sha256": "6ae2674e22314269e06f5192342f697eae9c74c96ad3b45a958c5574c6efbe93"
+      },
+      "extracted_file": "extracted/H03.txt",
+      "article_text_sha256": "4bd7e7a27bc596a1f1446856c1494b6a8208e8434ba587800f792afafd21cf01",
+      "cohorts_named_in_attachment_labels": [],
+      "cohort_applicability_verified_from_course_table": false,
+      "cohort_evidence_note": "附件标题年级仅为定位线索；发布日期不代表入学年级；逐课表未取得，其他年级适用性未知。",
+      "attachment_labels": [],
+      "article_link_targets": [],
+      "article_embedded_sources": [],
+      "graduation_credits": null,
+      "module_credits": [],
+      "main_courses": [
+        {
+          "name": "政治经济学",
+          "credits": null,
+          "course_code": null,
+          "course_type": null,
+          "semester": null,
+          "syllabus_details": null,
+          "eligible_for_recommendation_average": null,
+          "evidence_location": "主要课程段落",
+          "evidence_status": "name_only_in_official_overview"
+        },
+        {
+          "name": "数学分析1",
+          "credits": null,
+          "course_code": null,
+          "course_type": null,
+          "semester": null,
+          "syllabus_details": null,
+          "eligible_for_recommendation_average": null,
+          "evidence_location": "主要课程段落",
+          "evidence_status": "name_only_in_official_overview"
+        },
+        {
+          "name": "高等代数",
+          "credits": null,
+          "course_code": null,
+          "course_type": null,
+          "semester": null,
+          "syllabus_details": null,
+          "eligible_for_recommendation_average": null,
+          "evidence_location": "主要课程段落",
+          "evidence_status": "name_only_in_official_overview"
+        },
+        {
+          "name": "西方经济学",
+          "credits": null,
+          "course_code": null,
+          "course_type": null,
+          "semester": null,
+          "syllabus_details": null,
+          "eligible_for_recommendation_average": null,
+          "evidence_location": "主要课程段落",
+          "evidence_status": "name_only_in_official_overview"
+        },
+        {
+          "name": "统计学",
+          "credits": null,
+          "course_code": null,
+          "course_type": null,
+          "semester": null,
+          "syllabus_details": null,
+          "eligible_for_recommendation_average": null,
+          "evidence_location": "主要课程段落",
+          "evidence_status": "name_only_in_official_overview"
+        },
+        {
+          "name": "数学分析2",
+          "credits": null,
+          "course_code": null,
+          "course_type": null,
+          "semester": null,
+          "syllabus_details": null,
+          "eligible_for_recommendation_average": null,
+          "evidence_location": "主要课程段落",
+          "evidence_status": "name_only_in_official_overview"
+        },
+        {
+          "name": "概率论",
+          "credits": null,
+          "course_code": null,
+          "course_type": null,
+          "semester": null,
+          "syllabus_details": null,
+          "eligible_for_recommendation_average": null,
+          "evidence_location": "主要课程段落",
+          "evidence_status": "name_only_in_official_overview"
+        },
+        {
+          "name": "货币银行学",
+          "credits": null,
+          "course_code": null,
+          "course_type": null,
+          "semester": null,
+          "syllabus_details": null,
+          "eligible_for_recommendation_average": null,
+          "evidence_location": "主要课程段落",
+          "evidence_status": "name_only_in_official_overview"
+        },
+        {
+          "name": "非参数统计",
+          "credits": null,
+          "course_code": null,
+          "course_type": null,
+          "semester": null,
+          "syllabus_details": null,
+          "eligible_for_recommendation_average": null,
+          "evidence_location": "主要课程段落",
+          "evidence_status": "name_only_in_official_overview"
+        },
+        {
+          "name": "应用回归分析",
+          "credits": null,
+          "course_code": null,
+          "course_type": null,
+          "semester": null,
+          "syllabus_details": null,
+          "eligible_for_recommendation_average": null,
+          "evidence_location": "主要课程段落",
+          "evidence_status": "name_only_in_official_overview"
+        },
+        {
+          "name": "数理统计",
+          "credits": null,
+          "course_code": null,
+          "course_type": null,
+          "semester": null,
+          "syllabus_details": null,
+          "eligible_for_recommendation_average": null,
+          "evidence_location": "主要课程段落",
+          "evidence_status": "name_only_in_official_overview"
+        },
+        {
+          "name": "随机过程",
+          "credits": null,
+          "course_code": null,
+          "course_type": null,
+          "semester": null,
+          "syllabus_details": null,
+          "eligible_for_recommendation_average": null,
+          "evidence_location": "主要课程段落",
+          "evidence_status": "name_only_in_official_overview"
+        },
+        {
+          "name": "抽样技术",
+          "credits": null,
+          "course_code": null,
+          "course_type": null,
+          "semester": null,
+          "syllabus_details": null,
+          "eligible_for_recommendation_average": null,
+          "evidence_location": "主要课程段落",
+          "evidence_status": "name_only_in_official_overview"
+        },
+        {
+          "name": "多元统计分析",
+          "credits": null,
+          "course_code": null,
+          "course_type": null,
+          "semester": null,
+          "syllabus_details": null,
+          "eligible_for_recommendation_average": null,
+          "evidence_location": "主要课程段落",
+          "evidence_status": "name_only_in_official_overview"
+        },
+        {
+          "name": "时间序列分析",
+          "credits": null,
+          "course_code": null,
+          "course_type": null,
+          "semester": null,
+          "syllabus_details": null,
+          "eligible_for_recommendation_average": null,
+          "evidence_location": "主要课程段落",
+          "evidence_status": "name_only_in_official_overview"
+        },
+        {
+          "name": "证券投资学",
+          "credits": null,
+          "course_code": null,
+          "course_type": null,
+          "semester": null,
+          "syllabus_details": null,
+          "eligible_for_recommendation_average": null,
+          "evidence_location": "主要课程段落",
+          "evidence_status": "name_only_in_official_overview"
+        },
+        {
+          "name": "金融风险管理",
+          "credits": null,
+          "course_code": null,
+          "course_type": null,
+          "semester": null,
+          "syllabus_details": null,
+          "eligible_for_recommendation_average": null,
+          "evidence_location": "主要课程段落",
+          "evidence_status": "name_only_in_official_overview"
+        },
+        {
+          "name": "贝叶斯统计",
+          "credits": null,
+          "course_code": null,
+          "course_type": null,
+          "semester": null,
+          "syllabus_details": null,
+          "eligible_for_recommendation_average": null,
+          "evidence_location": "主要课程段落",
+          "evidence_status": "name_only_in_official_overview"
+        },
+        {
+          "name": "经济预测与决策",
+          "credits": null,
+          "course_code": null,
+          "course_type": null,
+          "semester": null,
+          "syllabus_details": null,
+          "eligible_for_recommendation_average": null,
+          "evidence_location": "主要课程段落",
+          "evidence_status": "name_only_in_official_overview"
+        },
+        {
+          "name": "保险精算",
+          "credits": null,
+          "course_code": null,
+          "course_type": null,
+          "semester": null,
+          "syllabus_details": null,
+          "eligible_for_recommendation_average": null,
+          "evidence_location": "主要课程段落",
+          "evidence_status": "name_only_in_official_overview"
+        },
+        {
+          "name": "C语言程序设计",
+          "credits": null,
+          "course_code": null,
+          "course_type": null,
+          "semester": null,
+          "syllabus_details": null,
+          "eligible_for_recommendation_average": null,
+          "evidence_location": "主要课程段落",
+          "evidence_status": "name_only_in_official_overview"
+        },
+        {
+          "name": "金融衍生品",
+          "credits": null,
+          "course_code": null,
+          "course_type": null,
+          "semester": null,
+          "syllabus_details": null,
+          "eligible_for_recommendation_average": null,
+          "evidence_location": "主要课程段落",
+          "evidence_status": "name_only_in_official_overview"
+        },
+        {
+          "name": "Python数据分析",
+          "credits": null,
+          "course_code": null,
+          "course_type": null,
+          "semester": null,
+          "syllabus_details": null,
+          "eligible_for_recommendation_average": null,
+          "evidence_location": "主要课程段落",
+          "evidence_status": "name_only_in_official_overview"
+        },
+        {
+          "name": "国民经济统计学",
+          "credits": null,
+          "course_code": null,
+          "course_type": null,
+          "semester": null,
+          "syllabus_details": null,
+          "eligible_for_recommendation_average": null,
+          "evidence_location": "主要课程段落",
+          "evidence_status": "name_only_in_official_overview"
+        },
+        {
+          "name": "SAS统计分析软件",
+          "credits": null,
+          "course_code": null,
+          "course_type": null,
+          "semester": null,
+          "syllabus_details": null,
+          "eligible_for_recommendation_average": null,
+          "evidence_location": "主要课程段落",
+          "evidence_status": "name_only_in_official_overview"
+        },
+        {
+          "name": "运筹学",
+          "credits": null,
+          "course_code": null,
+          "course_type": null,
+          "semester": null,
+          "syllabus_details": null,
+          "eligible_for_recommendation_average": null,
+          "evidence_location": "主要课程段落",
+          "evidence_status": "name_only_in_official_overview"
+        },
+        {
+          "name": "探索性数据分析",
+          "credits": null,
+          "course_code": null,
+          "course_type": null,
+          "semester": null,
+          "syllabus_details": null,
+          "eligible_for_recommendation_average": null,
+          "evidence_location": "主要课程段落",
+          "evidence_status": "name_only_in_official_overview"
+        },
+        {
+          "name": "试验设计",
+          "credits": null,
+          "course_code": null,
+          "course_type": null,
+          "semester": null,
+          "syllabus_details": null,
+          "eligible_for_recommendation_average": null,
+          "evidence_location": "主要课程段落",
+          "evidence_status": "name_only_in_official_overview"
+        }
+      ],
+      "full_course_list_obtained": false,
+      "per_course_credits_obtained": false
+    },
+    {
+      "source_id": "H04",
+      "programme": "经济统计学",
+      "role": "historical_summary",
+      "published_on": "2019-06-28",
+      "source": {
+        "url": "https://tjysjkx.jlufe.edu.cn/info/1084/1487.htm",
+        "downloaded_on": "2026-11-10",
+        "retrieval_status": "complete_html_archive",
+        "local_file": "pages/1487.html",
+        "bytes": 20066,
+        "sha256": "180ab9150e9b3601d67a55d46cf210638b3d8d916dc6022ecc16e88b2372b267"
+      },
+      "extracted_file": "extracted/H04.txt",
+      "article_text_sha256": "0fc728cc888a03038a8a71ebe370f299a72f6c95da737dae627b56f5cdbee821",
+      "cohorts_named_in_attachment_labels": [],
+      "cohort_applicability_verified_from_course_table": false,
+      "cohort_evidence_note": "附件标题年级仅为定位线索；发布日期不代表入学年级；逐课表未取得，其他年级适用性未知。",
+      "attachment_labels": [],
+      "article_link_targets": [],
+      "article_embedded_sources": [],
+      "graduation_credits": null,
+      "module_credits": [],
+      "main_courses": [
+        {
+          "name": "微观经济学",
+          "credits": null,
+          "course_code": null,
+          "course_type": null,
+          "semester": null,
+          "syllabus_details": null,
+          "eligible_for_recommendation_average": null,
+          "evidence_location": "主要课程段落",
+          "evidence_status": "name_only_in_official_overview"
+        },
+        {
+          "name": "宏观经济学",
+          "credits": null,
+          "course_code": null,
+          "course_type": null,
+          "semester": null,
+          "syllabus_details": null,
+          "eligible_for_recommendation_average": null,
+          "evidence_location": "主要课程段落",
+          "evidence_status": "name_only_in_official_overview"
+        },
+        {
+          "name": "统计学",
+          "credits": null,
+          "course_code": null,
+          "course_type": null,
+          "semester": null,
+          "syllabus_details": null,
+          "eligible_for_recommendation_average": null,
+          "evidence_location": "主要课程段落",
+          "evidence_status": "name_only_in_official_overview"
+        },
+        {
+          "name": "会计学",
+          "credits": null,
+          "course_code": null,
+          "course_type": null,
+          "semester": null,
+          "syllabus_details": null,
+          "eligible_for_recommendation_average": null,
+          "evidence_location": "主要课程段落",
+          "evidence_status": "name_only_in_official_overview"
+        },
+        {
+          "name": "计量经济学",
+          "credits": null,
+          "course_code": null,
+          "course_type": null,
+          "semester": null,
+          "syllabus_details": null,
+          "eligible_for_recommendation_average": null,
+          "evidence_location": "主要课程段落",
+          "evidence_status": "name_only_in_official_overview"
+        },
+        {
+          "name": "财政学",
+          "credits": null,
+          "course_code": null,
+          "course_type": null,
+          "semester": null,
+          "syllabus_details": null,
+          "eligible_for_recommendation_average": null,
+          "evidence_location": "主要课程段落",
+          "evidence_status": "name_only_in_official_overview"
+        },
+        {
+          "name": "货币银行学",
+          "credits": null,
+          "course_code": null,
+          "course_type": null,
+          "semester": null,
+          "syllabus_details": null,
+          "eligible_for_recommendation_average": null,
+          "evidence_location": "主要课程段落",
+          "evidence_status": "name_only_in_official_overview"
+        },
+        {
+          "name": "非参数统计",
+          "credits": null,
+          "course_code": null,
+          "course_type": null,
+          "semester": null,
+          "syllabus_details": null,
+          "eligible_for_recommendation_average": null,
+          "evidence_location": "主要课程段落",
+          "evidence_status": "name_only_in_official_overview"
+        },
+        {
+          "name": "市场调研与预测",
+          "credits": null,
+          "course_code": null,
+          "course_type": null,
+          "semester": null,
+          "syllabus_details": null,
+          "eligible_for_recommendation_average": null,
+          "evidence_location": "主要课程段落",
+          "evidence_status": "name_only_in_official_overview"
+        },
+        {
+          "name": "经济预测与决策",
+          "credits": null,
+          "course_code": null,
+          "course_type": null,
+          "semester": null,
+          "syllabus_details": null,
+          "eligible_for_recommendation_average": null,
+          "evidence_location": "主要课程段落",
+          "evidence_status": "name_only_in_official_overview"
+        },
+        {
+          "name": "抽样技术",
+          "credits": null,
+          "course_code": null,
+          "course_type": null,
+          "semester": null,
+          "syllabus_details": null,
+          "eligible_for_recommendation_average": null,
+          "evidence_location": "主要课程段落",
+          "evidence_status": "name_only_in_official_overview"
+        },
+        {
+          "name": "企业经营统计学",
+          "credits": null,
+          "course_code": null,
+          "course_type": null,
+          "semester": null,
+          "syllabus_details": null,
+          "eligible_for_recommendation_average": null,
+          "evidence_location": "主要课程段落",
+          "evidence_status": "name_only_in_official_overview"
+        },
+        {
+          "name": "运筹学",
+          "credits": null,
+          "course_code": null,
+          "course_type": null,
+          "semester": null,
+          "syllabus_details": null,
+          "eligible_for_recommendation_average": null,
+          "evidence_location": "主要课程段落",
+          "evidence_status": "name_only_in_official_overview"
+        },
+        {
+          "name": "应用多元统计分析",
+          "credits": null,
+          "course_code": null,
+          "course_type": null,
+          "semester": null,
+          "syllabus_details": null,
+          "eligible_for_recommendation_average": null,
+          "evidence_location": "主要课程段落",
+          "evidence_status": "name_only_in_official_overview"
+        },
+        {
+          "name": "应用时间序列分析",
+          "credits": null,
+          "course_code": null,
+          "course_type": null,
+          "semester": null,
+          "syllabus_details": null,
+          "eligible_for_recommendation_average": null,
+          "evidence_location": "主要课程段落",
+          "evidence_status": "name_only_in_official_overview"
+        },
+        {
+          "name": "国民经济统计学",
+          "credits": null,
+          "course_code": null,
+          "course_type": null,
+          "semester": null,
+          "syllabus_details": null,
+          "eligible_for_recommendation_average": null,
+          "evidence_location": "主要课程段落",
+          "evidence_status": "name_only_in_official_overview"
+        },
+        {
+          "name": "C语言程序设计",
+          "credits": null,
+          "course_code": null,
+          "course_type": null,
+          "semester": null,
+          "syllabus_details": null,
+          "eligible_for_recommendation_average": null,
+          "evidence_location": "主要课程段落",
+          "evidence_status": "name_only_in_official_overview"
+        },
+        {
+          "name": "Python数据分析",
+          "credits": null,
+          "course_code": null,
+          "course_type": null,
+          "semester": null,
+          "syllabus_details": null,
+          "eligible_for_recommendation_average": null,
+          "evidence_location": "主要课程段落",
+          "evidence_status": "name_only_in_official_overview"
+        },
+        {
+          "name": "SAS统计分析软件",
+          "credits": null,
+          "course_code": null,
+          "course_type": null,
+          "semester": null,
+          "syllabus_details": null,
+          "eligible_for_recommendation_average": null,
+          "evidence_location": "主要课程段落",
+          "evidence_status": "name_only_in_official_overview"
+        },
+        {
+          "name": "数据挖掘技术导论",
+          "credits": null,
+          "course_code": null,
+          "course_type": null,
+          "semester": null,
+          "syllabus_details": null,
+          "eligible_for_recommendation_average": null,
+          "evidence_location": "主要课程段落",
+          "evidence_status": "name_only_in_official_overview"
+        }
+      ],
+      "full_course_list_obtained": false,
+      "per_course_credits_obtained": false
+    },
+    {
+      "source_id": "H05",
+      "programme": "经济统计学（经济数据工程实验班）",
+      "role": "historical_summary",
+      "published_on": "2019-06-28",
+      "source": {
+        "url": "https://tjysjkx.jlufe.edu.cn/info/1084/1488.htm",
+        "downloaded_on": "2026-11-10",
+        "retrieval_status": "complete_html_archive",
+        "local_file": "pages/1488.html",
+        "bytes": 19899,
+        "sha256": "ed6b13cf55cd17e21de1a89f6f339b080edd85cb091de9e464d771f543017d63"
+      },
+      "extracted_file": "extracted/H05.txt",
+      "article_text_sha256": "90c22991022c1b2b5f55cd9f039de05c684d35b987c0d7209d3bc3b1b3081df6",
+      "cohorts_named_in_attachment_labels": [],
+      "cohort_applicability_verified_from_course_table": false,
+      "cohort_evidence_note": "附件标题年级仅为定位线索；发布日期不代表入学年级；逐课表未取得，其他年级适用性未知。",
+      "attachment_labels": [],
+      "article_link_targets": [],
+      "article_embedded_sources": [],
+      "graduation_credits": null,
+      "module_credits": [],
+      "main_courses": [
+        {
+          "name": "微观经济学",
+          "credits": null,
+          "course_code": null,
+          "course_type": null,
+          "semester": null,
+          "syllabus_details": null,
+          "eligible_for_recommendation_average": null,
+          "evidence_location": "主要课程段落",
+          "evidence_status": "name_only_in_official_overview"
+        },
+        {
+          "name": "宏观经济学",
+          "credits": null,
+          "course_code": null,
+          "course_type": null,
+          "semester": null,
+          "syllabus_details": null,
+          "eligible_for_recommendation_average": null,
+          "evidence_location": "主要课程段落",
+          "evidence_status": "name_only_in_official_overview"
+        },
+        {
+          "name": "统计学",
+          "credits": null,
+          "course_code": null,
+          "course_type": null,
+          "semester": null,
+          "syllabus_details": null,
+          "eligible_for_recommendation_average": null,
+          "evidence_location": "主要课程段落",
+          "evidence_status": "name_only_in_official_overview"
+        },
+        {
+          "name": "会计学",
+          "credits": null,
+          "course_code": null,
+          "course_type": null,
+          "semester": null,
+          "syllabus_details": null,
+          "eligible_for_recommendation_average": null,
+          "evidence_location": "主要课程段落",
+          "evidence_status": "name_only_in_official_overview"
+        },
+        {
+          "name": "计量经济学",
+          "credits": null,
+          "course_code": null,
+          "course_type": null,
+          "semester": null,
+          "syllabus_details": null,
+          "eligible_for_recommendation_average": null,
+          "evidence_location": "主要课程段落",
+          "evidence_status": "name_only_in_official_overview"
+        },
+        {
+          "name": "财政学",
+          "credits": null,
+          "course_code": null,
+          "course_type": null,
+          "semester": null,
+          "syllabus_details": null,
+          "eligible_for_recommendation_average": null,
+          "evidence_location": "主要课程段落",
+          "evidence_status": "name_only_in_official_overview"
+        },
+        {
+          "name": "货币银行学",
+          "credits": null,
+          "course_code": null,
+          "course_type": null,
+          "semester": null,
+          "syllabus_details": null,
+          "eligible_for_recommendation_average": null,
+          "evidence_location": "主要课程段落",
+          "evidence_status": "name_only_in_official_overview"
+        },
+        {
+          "name": "非参数统计",
+          "credits": null,
+          "course_code": null,
+          "course_type": null,
+          "semester": null,
+          "syllabus_details": null,
+          "eligible_for_recommendation_average": null,
+          "evidence_location": "主要课程段落",
+          "evidence_status": "name_only_in_official_overview"
+        },
+        {
+          "name": "市场调研与预测",
+          "credits": null,
+          "course_code": null,
+          "course_type": null,
+          "semester": null,
+          "syllabus_details": null,
+          "eligible_for_recommendation_average": null,
+          "evidence_location": "主要课程段落",
+          "evidence_status": "name_only_in_official_overview"
+        },
+        {
+          "name": "随机过程",
+          "credits": null,
+          "course_code": null,
+          "course_type": null,
+          "semester": null,
+          "syllabus_details": null,
+          "eligible_for_recommendation_average": null,
+          "evidence_location": "主要课程段落",
+          "evidence_status": "name_only_in_official_overview"
+        },
+        {
+          "name": "数据挖掘技术导论",
+          "credits": null,
+          "course_code": null,
+          "course_type": null,
+          "semester": null,
+          "syllabus_details": null,
+          "eligible_for_recommendation_average": null,
+          "evidence_location": "主要课程段落",
+          "evidence_status": "name_only_in_official_overview"
+        },
+        {
+          "name": "企业经营统计学",
+          "credits": null,
+          "course_code": null,
+          "course_type": null,
+          "semester": null,
+          "syllabus_details": null,
+          "eligible_for_recommendation_average": null,
+          "evidence_location": "主要课程段落",
+          "evidence_status": "name_only_in_official_overview"
+        },
+        {
+          "name": "Python数据分析",
+          "credits": null,
+          "course_code": null,
+          "course_type": null,
+          "semester": null,
+          "syllabus_details": null,
+          "eligible_for_recommendation_average": null,
+          "evidence_location": "主要课程段落",
+          "evidence_status": "name_only_in_official_overview"
+        },
+        {
+          "name": "应用时间序列分析",
+          "credits": null,
+          "course_code": null,
+          "course_type": null,
+          "semester": null,
+          "syllabus_details": null,
+          "eligible_for_recommendation_average": null,
+          "evidence_location": "主要课程段落",
+          "evidence_status": "name_only_in_official_overview"
+        },
+        {
+          "name": "国民经济统计学",
+          "credits": null,
+          "course_code": null,
+          "course_type": null,
+          "semester": null,
+          "syllabus_details": null,
+          "eligible_for_recommendation_average": null,
+          "evidence_location": "主要课程段落",
+          "evidence_status": "name_only_in_official_overview"
+        },
+        {
+          "name": "应用多元统计分析",
+          "credits": null,
+          "course_code": null,
+          "course_type": null,
+          "semester": null,
+          "syllabus_details": null,
+          "eligible_for_recommendation_average": null,
+          "evidence_location": "主要课程段落",
+          "evidence_status": "name_only_in_official_overview"
+        },
+        {
+          "name": "网络技术",
+          "credits": null,
+          "course_code": null,
+          "course_type": null,
+          "semester": null,
+          "syllabus_details": null,
+          "eligible_for_recommendation_average": null,
+          "evidence_location": "主要课程段落",
+          "evidence_status": "name_only_in_official_overview"
+        },
+        {
+          "name": "经济预测与决策",
+          "credits": null,
+          "course_code": null,
+          "course_type": null,
+          "semester": null,
+          "syllabus_details": null,
+          "eligible_for_recommendation_average": null,
+          "evidence_location": "主要课程段落",
+          "evidence_status": "name_only_in_official_overview"
+        },
+        {
+          "name": "机器学习",
+          "credits": null,
+          "course_code": null,
+          "course_type": null,
+          "semester": null,
+          "syllabus_details": null,
+          "eligible_for_recommendation_average": null,
+          "evidence_location": "主要课程段落",
+          "evidence_status": "name_only_in_official_overview"
+        },
+        {
+          "name": "C语言程序设计",
+          "credits": null,
+          "course_code": null,
+          "course_type": null,
+          "semester": null,
+          "syllabus_details": null,
+          "eligible_for_recommendation_average": null,
+          "evidence_location": "主要课程段落",
+          "evidence_status": "name_only_in_official_overview"
+        },
+        {
+          "name": "分布式系统与并行计算",
+          "credits": null,
+          "course_code": null,
+          "course_type": null,
+          "semester": null,
+          "syllabus_details": null,
+          "eligible_for_recommendation_average": null,
+          "evidence_location": "主要课程段落",
+          "evidence_status": "name_only_in_official_overview"
+        },
+        {
+          "name": "SAS统计分析软件",
+          "credits": null,
+          "course_code": null,
+          "course_type": null,
+          "semester": null,
+          "syllabus_details": null,
+          "eligible_for_recommendation_average": null,
+          "evidence_location": "主要课程段落",
+          "evidence_status": "name_only_in_official_overview"
+        }
+      ],
+      "full_course_list_obtained": false,
+      "per_course_credits_obtained": false
+    }
+  ],
+  "supplemental_sources": [
+    {
+      "url": "https://tjysjkx.jlufe.edu.cn/rcpy/bkspy/pyfa.htm",
+      "downloaded_on": "2026-11-10",
+      "retrieval_status": "complete_html_archive",
+      "local_file": "pages/index.html",
+      "bytes": 23734,
+      "sha256": "f02c2a182ab347d5dab48883de4159fff610c1222d4e336d4d36492c8406d5ac"
+    },
+    {
+      "url": "https://tjysjkx.jlufe.edu.cn/rcpy/bkspy/pyfa/1.htm",
+      "downloaded_on": "2026-11-10",
+      "retrieval_status": "complete_html_archive",
+      "local_file": "pages/index-older.html",
+      "bytes": 23603,
+      "sha256": "e00ce8cb7a94d9523225c6b2e91c5f5633a7ed6908acfb62bb5c9a4549a73058"
+    },
+    {
+      "url": "https://newtjxy.jlufe.edu.cn/info/1084/3261.htm",
+      "downloaded_on": "2026-11-10",
+      "retrieval_status": "complete_html_archive",
+      "local_file": "pages/legacy-3261.html",
+      "bytes": 55743,
+      "sha256": "7601e9f337ac47f5f16fc43fbb06884f694b8fc6677dfa018fac178259576c88"
+    },
+    {
+      "url": "https://www.jlufe.edu.cn/info/1045/14483.htm",
+      "local_file": null,
+      "retrieval_status": "html_download_failed_or_incomplete",
+      "checked_on": "2026-11-10"
+    },
+    {
+      "url": "https://jwc.jlufe.edu.cn/info/1156/1909.htm",
+      "local_file": null,
+      "retrieval_status": "html_download_failed_or_incomplete",
+      "checked_on": "2026-11-10"
+    },
+    {
+      "url": "https://jwc.jlufe.edu.cn/info/1032/2316.htm",
+      "local_file": null,
+      "retrieval_status": "html_download_failed_or_incomplete",
+      "checked_on": "2026-11-10"
+    },
+    {
+      "url": "https://newtjxy.jlufe.edu.cn/info/1117/3927.htm",
+      "local_file": null,
+      "retrieval_status": "html_download_failed_or_incomplete",
+      "checked_on": "2026-11-10"
+    }
+  ],
+  "missing_programmes": [
+    {
+      "programme": "金融数学",
+      "status": "no_verified_public_curriculum_found"
+    }
+  ]
+}

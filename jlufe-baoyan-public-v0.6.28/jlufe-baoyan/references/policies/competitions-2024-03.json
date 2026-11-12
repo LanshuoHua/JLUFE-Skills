@@ -1,0 +1,1074 @@
+{
+  "source_id": "U06",
+  "title": "附件：吉林财经大学本科生学科竞赛名单（2024年3月版）",
+  "version_label": "2024年3月版",
+  "source_sha256": "da4ba4dfdd7aa0a851c3916d9515c2f6b77114ba463370066d7300c5f0413d19",
+  "sheet": "名单2024.3",
+  "header_range": "A2:C2",
+  "data_range": "A3:C118",
+  "original_headers": [
+    "编号",
+    "竞赛项目名称",
+    "竞赛组织单位"
+  ],
+  "other_sheets": [
+    {
+      "name": "Sheet1",
+      "state": "visible",
+      "content": "empty"
+    }
+  ],
+  "record_count": 116,
+  "limitations": [
+    "原件未列A1/A2/B等级；A1是标题单元格地址。",
+    "竞赛组织单位列列出校内组织部门，不能证明校外赛事主办单位。",
+    "不含完整管理办法、推免计分或当前届别采用条款。",
+    "保留原样赛事名，不把历史名自动改为现名。"
+  ],
+  "items": [
+    {
+      "number": 1,
+      "name": "中国国际“互联网+”大学生创新创业大赛",
+      "organizing_unit_as_written": "创新创业教育学院",
+      "source_range": "'名单2024.3'!A3:C3",
+      "category": null,
+      "recommendation_points": null,
+      "current_applicability": null
+    },
+    {
+      "number": 2,
+      "name": "全国财经院校创新创业大赛",
+      "organizing_unit_as_written": "创新创业教育学院",
+      "source_range": "'名单2024.3'!A4:C4",
+      "category": null,
+      "recommendation_points": null,
+      "current_applicability": null
+    },
+    {
+      "number": 3,
+      "name": "ICAN大学生创新创业大赛",
+      "organizing_unit_as_written": "创新创业教育学院",
+      "source_range": "'名单2024.3'!A5:C5",
+      "category": null,
+      "recommendation_points": null,
+      "current_applicability": null
+    },
+    {
+      "number": 4,
+      "name": "中国大学生服务外包创新创业大赛",
+      "organizing_unit_as_written": "创新创业教育学院",
+      "source_range": "'名单2024.3'!A6:C6",
+      "category": null,
+      "recommendation_points": null,
+      "current_applicability": null
+    },
+    {
+      "number": 5,
+      "name": "吉林省“求实杯”大学生智慧建设创新创业大赛",
+      "organizing_unit_as_written": "创新创业教育学院",
+      "source_range": "'名单2024.3'!A7:C7",
+      "category": null,
+      "recommendation_points": null,
+      "current_applicability": null
+    },
+    {
+      "number": 6,
+      "name": "全国大学生创新创业训练计划年会展示",
+      "organizing_unit_as_written": "创新创业教育学院",
+      "source_range": "'名单2024.3'!A8:C8",
+      "category": null,
+      "recommendation_points": null,
+      "current_applicability": null
+    },
+    {
+      "number": 7,
+      "name": "中美青年创客大赛",
+      "organizing_unit_as_written": "创新创业教育学院",
+      "source_range": "'名单2024.3'!A9:C9",
+      "category": null,
+      "recommendation_points": null,
+      "current_applicability": null
+    },
+    {
+      "number": 8,
+      "name": "吉林省会展创新创业竞赛",
+      "organizing_unit_as_written": "创新创业教育学院",
+      "source_range": "'名单2024.3'!A10:C10",
+      "category": null,
+      "recommendation_points": null,
+      "current_applicability": null
+    },
+    {
+      "number": 9,
+      "name": "东北高校模拟法庭竞赛",
+      "organizing_unit_as_written": "法学院",
+      "source_range": "'名单2024.3'!A11:C11",
+      "category": null,
+      "recommendation_points": null,
+      "current_applicability": null
+    },
+    {
+      "number": 10,
+      "name": "全国大学生节能减排社会实践与科技竞赛",
+      "organizing_unit_as_written": "公共管理学院",
+      "source_range": "'名单2024.3'!A12:C12",
+      "category": null,
+      "recommendation_points": null,
+      "current_applicability": null
+    },
+    {
+      "number": 11,
+      "name": "“外研社·国才杯”“理解当代中国”全国大学生外语能力大赛（外研社全国大学生英语系列赛）-英语演讲",
+      "organizing_unit_as_written": "公共外语部",
+      "source_range": "'名单2024.3'!A13:C13",
+      "category": null,
+      "recommendation_points": null,
+      "current_applicability": null
+    },
+    {
+      "number": 12,
+      "name": "“外研社·国才杯”“理解当代中国”全国大学生外语能力大赛（外研社全国大学生英语系列赛）-英语辩论",
+      "organizing_unit_as_written": "公共外语部",
+      "source_range": "'名单2024.3'!A14:C14",
+      "category": null,
+      "recommendation_points": null,
+      "current_applicability": null
+    },
+    {
+      "number": 13,
+      "name": "“外研社·国才杯”“理解当代中国”全国大学生外语能力大赛（外研社全国大学生英语系列赛）-英语写作",
+      "organizing_unit_as_written": "公共外语部",
+      "source_range": "'名单2024.3'!A15:C15",
+      "category": null,
+      "recommendation_points": null,
+      "current_applicability": null
+    },
+    {
+      "number": 14,
+      "name": "“外研社·国才杯”“理解当代中国”全国大学生外语能力大赛（外研社全国大学生英语系列赛）-英语阅读",
+      "organizing_unit_as_written": "公共外语部",
+      "source_range": "'名单2024.3'!A16:C16",
+      "category": null,
+      "recommendation_points": null,
+      "current_applicability": null
+    },
+    {
+      "number": 15,
+      "name": "“21世纪杯”全国英语演讲比赛",
+      "organizing_unit_as_written": "公共外语部",
+      "source_range": "'名单2024.3'!A17:C17",
+      "category": null,
+      "recommendation_points": null,
+      "current_applicability": null
+    },
+    {
+      "number": 16,
+      "name": "“外教社杯”全国高校学生跨文化能力大赛",
+      "organizing_unit_as_written": "公共外语部",
+      "source_range": "'名单2024.3'!A18:C18",
+      "category": null,
+      "recommendation_points": null,
+      "current_applicability": null
+    },
+    {
+      "number": 17,
+      "name": "“中译国青杯”国际组织文件翻译大赛",
+      "organizing_unit_as_written": "公共外语部",
+      "source_range": "'名单2024.3'!A19:C19",
+      "category": null,
+      "recommendation_points": null,
+      "current_applicability": null
+    },
+    {
+      "number": 18,
+      "name": "“外教社 ·词达人杯”全国大学生英语词汇能力大赛",
+      "organizing_unit_as_written": "公共外语部",
+      "source_range": "'名单2024.3'!A20:C20",
+      "category": null,
+      "recommendation_points": null,
+      "current_applicability": null
+    },
+    {
+      "number": 19,
+      "name": "“求是杯”国际诗歌创作与翻译大赛",
+      "organizing_unit_as_written": "公共外语部",
+      "source_range": "'名单2024.3'!A21:C21",
+      "category": null,
+      "recommendation_points": null,
+      "current_applicability": null
+    },
+    {
+      "number": 20,
+      "name": "全国大学生电子商务“创新、创意及创业”挑战赛",
+      "organizing_unit_as_written": "管理科学与信息工程学院",
+      "source_range": "'名单2024.3'!A22:C22",
+      "category": null,
+      "recommendation_points": null,
+      "current_applicability": null
+    },
+    {
+      "number": 21,
+      "name": "全国大学生软件创新大赛",
+      "organizing_unit_as_written": "管理科学与信息工程学院",
+      "source_range": "'名单2024.3'!A23:C23",
+      "category": null,
+      "recommendation_points": null,
+      "current_applicability": null
+    },
+    {
+      "number": 22,
+      "name": "全国大学生电子设计竞赛",
+      "organizing_unit_as_written": "管理科学与信息工程学院",
+      "source_range": "'名单2024.3'!A24:C24",
+      "category": null,
+      "recommendation_points": null,
+      "current_applicability": null
+    },
+    {
+      "number": 23,
+      "name": "ACM-ICPC国际大学生程序设计大赛",
+      "organizing_unit_as_written": "管理科学与信息工程学院",
+      "source_range": "'名单2024.3'!A25:C25",
+      "category": null,
+      "recommendation_points": null,
+      "current_applicability": null
+    },
+    {
+      "number": 24,
+      "name": "中国大学生计算机设计大赛",
+      "organizing_unit_as_written": "管理科学与信息工程学院",
+      "source_range": "'名单2024.3'!A26:C26",
+      "category": null,
+      "recommendation_points": null,
+      "current_applicability": null
+    },
+    {
+      "number": 25,
+      "name": "中国高校计算机大赛大-数据挑战赛",
+      "organizing_unit_as_written": "管理科学与信息工程学院",
+      "source_range": "'名单2024.3'!A27:C27",
+      "category": null,
+      "recommendation_points": null,
+      "current_applicability": null
+    },
+    {
+      "number": 26,
+      "name": "吉林省大学生程序设计大赛",
+      "organizing_unit_as_written": "管理科学与信息工程学院",
+      "source_range": "'名单2024.3'!A28:C28",
+      "category": null,
+      "recommendation_points": null,
+      "current_applicability": null
+    },
+    {
+      "number": 27,
+      "name": "吉林省电子商务案例分析大赛",
+      "organizing_unit_as_written": "管理科学与信息工程学院",
+      "source_range": "'名单2024.3'!A29:C29",
+      "category": null,
+      "recommendation_points": null,
+      "current_applicability": null
+    },
+    {
+      "number": 28,
+      "name": "蓝桥杯全国软件和信息技术专业人才大赛",
+      "organizing_unit_as_written": "管理科学与信息工程学院",
+      "source_range": "'名单2024.3'!A30:C30",
+      "category": null,
+      "recommendation_points": null,
+      "current_applicability": null
+    },
+    {
+      "number": 29,
+      "name": "“中国软件杯”大学生软件设计大赛",
+      "organizing_unit_as_written": "管理科学与信息工程学院",
+      "source_range": "'名单2024.3'!A31:C31",
+      "category": null,
+      "recommendation_points": null,
+      "current_applicability": null
+    },
+    {
+      "number": 30,
+      "name": "全国大学生信息安全竞赛",
+      "organizing_unit_as_written": "管理科学与信息工程学院",
+      "source_range": "'名单2024.3'!A32:C32",
+      "category": null,
+      "recommendation_points": null,
+      "current_applicability": null
+    },
+    {
+      "number": 31,
+      "name": "吉林省大学生网络安全大赛",
+      "organizing_unit_as_written": "管理科学与信息工程学院",
+      "source_range": "'名单2024.3'!A33:C33",
+      "category": null,
+      "recommendation_points": null,
+      "current_applicability": null
+    },
+    {
+      "number": 32,
+      "name": "华为ICT大赛",
+      "organizing_unit_as_written": "管理科学与信息工程学院",
+      "source_range": "'名单2024.3'!A34:C34",
+      "category": null,
+      "recommendation_points": null,
+      "current_applicability": null
+    },
+    {
+      "number": 33,
+      "name": "中国高校计算机大赛-团体程序设计天梯赛",
+      "organizing_unit_as_written": "管理科学与信息工程学院",
+      "source_range": "'名单2024.3'!A35:C35",
+      "category": null,
+      "recommendation_points": null,
+      "current_applicability": null
+    },
+    {
+      "number": 34,
+      "name": "中国高校计算机大赛-移动应用创新赛",
+      "organizing_unit_as_written": "管理科学与信息工程学院",
+      "source_range": "'名单2024.3'!A36:C36",
+      "category": null,
+      "recommendation_points": null,
+      "current_applicability": null
+    },
+    {
+      "number": 35,
+      "name": "中国高校计算机大赛-网络技术挑战赛",
+      "organizing_unit_as_written": "管理科学与信息工程学院",
+      "source_range": "'名单2024.3'!A37:C37",
+      "category": null,
+      "recommendation_points": null,
+      "current_applicability": null
+    },
+    {
+      "number": 36,
+      "name": "中国高校计算机大赛-人工智能创意赛",
+      "organizing_unit_as_written": "管理科学与信息工程学院",
+      "source_range": "'名单2024.3'!A38:C38",
+      "category": null,
+      "recommendation_points": null,
+      "current_applicability": null
+    },
+    {
+      "number": 37,
+      "name": "百度之星·程序设计大赛",
+      "organizing_unit_as_written": "管理科学与信息工程学院",
+      "source_range": "'名单2024.3'!A39:C39",
+      "category": null,
+      "recommendation_points": null,
+      "current_applicability": null
+    },
+    {
+      "number": 38,
+      "name": "全国大学生计算机系统能力大赛",
+      "organizing_unit_as_written": "管理科学与信息工程学院",
+      "source_range": "'名单2024.3'!A40:C40",
+      "category": null,
+      "recommendation_points": null,
+      "current_applicability": null
+    },
+    {
+      "number": 39,
+      "name": "全国大学生信息安全与对抗技术竞赛",
+      "organizing_unit_as_written": "管理科学与信息工程学院",
+      "source_range": "'名单2024.3'!A41:C41",
+      "category": null,
+      "recommendation_points": null,
+      "current_applicability": null
+    },
+    {
+      "number": 40,
+      "name": "全球校园人工智能算法精英大赛",
+      "organizing_unit_as_written": "管理科学与信息工程学院",
+      "source_range": "'名单2024.3'!A42:C42",
+      "category": null,
+      "recommendation_points": null,
+      "current_applicability": null
+    },
+    {
+      "number": 41,
+      "name": "全国大学生计算机应用能力与信息素养大赛",
+      "organizing_unit_as_written": "管理科学与信息工程学院",
+      "source_range": "'名单2024.3'!A43:C43",
+      "category": null,
+      "recommendation_points": null,
+      "current_applicability": null
+    },
+    {
+      "number": 42,
+      "name": "全国大学生软件测试大赛",
+      "organizing_unit_as_written": "管理科学与信息工程学院",
+      "source_range": "'名单2024.3'!A44:C44",
+      "category": null,
+      "recommendation_points": null,
+      "current_applicability": null
+    },
+    {
+      "number": 43,
+      "name": "全国高校计算机能力挑战赛",
+      "organizing_unit_as_written": "管理科学与信息工程学院",
+      "source_range": "'名单2024.3'!A45:C45",
+      "category": null,
+      "recommendation_points": null,
+      "current_applicability": null
+    },
+    {
+      "number": 44,
+      "name": "新华三杯全国大学生数字技术大赛",
+      "organizing_unit_as_written": "管理科学与信息工程学院",
+      "source_range": "'名单2024.3'!A46:C46",
+      "category": null,
+      "recommendation_points": null,
+      "current_applicability": null
+    },
+    {
+      "number": 45,
+      "name": "全国工商企业管理技能大赛",
+      "organizing_unit_as_written": "国际交流学院",
+      "source_range": "'名单2024.3'!A47:C47",
+      "category": null,
+      "recommendation_points": null,
+      "current_applicability": null
+    },
+    {
+      "number": 46,
+      "name": "全国高校俄语大赛",
+      "organizing_unit_as_written": "国际经济与贸易学院",
+      "source_range": "'名单2024.3'!A48:C48",
+      "category": null,
+      "recommendation_points": null,
+      "current_applicability": null
+    },
+    {
+      "number": 47,
+      "name": "全国高校商业精英挑战赛国际贸易竞赛-品牌策划竞赛",
+      "organizing_unit_as_written": "国际经济与贸易学院",
+      "source_range": "'名单2024.3'!A49:C49",
+      "category": null,
+      "recommendation_points": null,
+      "current_applicability": null
+    },
+    {
+      "number": 48,
+      "name": "全国高校商业精英挑战赛国际贸易竞赛-会展专业创新创业实践竞赛",
+      "organizing_unit_as_written": "国际经济与贸易学院",
+      "source_range": "'名单2024.3'!A50:C50",
+      "category": null,
+      "recommendation_points": null,
+      "current_applicability": null
+    },
+    {
+      "number": 49,
+      "name": "全国高校商业精英挑战赛国际贸易竞赛-国际贸易竞赛",
+      "organizing_unit_as_written": "国际经济与贸易学院",
+      "source_range": "'名单2024.3'!A51:C51",
+      "category": null,
+      "recommendation_points": null,
+      "current_applicability": null
+    },
+    {
+      "number": 50,
+      "name": "全国高校商业精英挑战赛国际贸易竞赛-创新创业竞赛",
+      "organizing_unit_as_written": "国际经济与贸易学院",
+      "source_range": "'名单2024.3'!A52:C52",
+      "category": null,
+      "recommendation_points": null,
+      "current_applicability": null
+    },
+    {
+      "number": 51,
+      "name": "全国高校商业精英挑战赛国际贸易竞赛-会计与商业管理案例竞赛",
+      "organizing_unit_as_written": "国际经济与贸易学院",
+      "source_range": "'名单2024.3'!A53:C53",
+      "category": null,
+      "recommendation_points": null,
+      "current_applicability": null
+    },
+    {
+      "number": 52,
+      "name": "吉林省冰雪新丝路数字贸易创新创业大赛",
+      "organizing_unit_as_written": "国际经济与贸易学院",
+      "source_range": "'名单2024.3'!A54:C54",
+      "category": null,
+      "recommendation_points": null,
+      "current_applicability": null
+    },
+    {
+      "number": 53,
+      "name": "全国大学生商务谈判大赛",
+      "organizing_unit_as_written": "国际经济与贸易学院",
+      "source_range": "'名单2024.3'!A55:C55",
+      "category": null,
+      "recommendation_points": null,
+      "current_applicability": null
+    },
+    {
+      "number": 54,
+      "name": "全国高校企业价值创造实战大赛",
+      "organizing_unit_as_written": "会计学院",
+      "source_range": "'名单2024.3'!A56:C56",
+      "category": null,
+      "recommendation_points": null,
+      "current_applicability": null
+    },
+    {
+      "number": 55,
+      "name": "“新道杯”全国大学生数智化企业经营沙盘大赛",
+      "organizing_unit_as_written": "会计学院",
+      "source_range": "'名单2024.3'!A57:C57",
+      "category": null,
+      "recommendation_points": null,
+      "current_applicability": null
+    },
+    {
+      "number": 56,
+      "name": "吉林省“互联网+”大学生财会大赛",
+      "organizing_unit_as_written": "会计学院",
+      "source_range": "'名单2024.3'!A58:C58",
+      "category": null,
+      "recommendation_points": null,
+      "current_applicability": null
+    },
+    {
+      "number": 57,
+      "name": "“新道杯”第十六届全国大学生财务数智化大赛",
+      "organizing_unit_as_written": "会计学院",
+      "source_range": "'名单2024.3'!A59:C59",
+      "category": null,
+      "recommendation_points": null,
+      "current_applicability": null
+    },
+    {
+      "number": 58,
+      "name": "金蝶云管理创新杯（“金蝶杯”吉林省大学生企业管理数据分析技能大赛）",
+      "organizing_unit_as_written": "会计学院",
+      "source_range": "'名单2024.3'!A60:C60",
+      "category": null,
+      "recommendation_points": null,
+      "current_applicability": null
+    },
+    {
+      "number": 59,
+      "name": "大学生财务决策大赛",
+      "organizing_unit_as_written": "会计学院",
+      "source_range": "'名单2024.3'!A61:C61",
+      "category": null,
+      "recommendation_points": null,
+      "current_applicability": null
+    },
+    {
+      "number": 60,
+      "name": "吉林省大学生智能审计技能大赛",
+      "organizing_unit_as_written": "会计学院",
+      "source_range": "'名单2024.3'!A62:C62",
+      "category": null,
+      "recommendation_points": null,
+      "current_applicability": null
+    },
+    {
+      "number": 61,
+      "name": "“科云杯”全国大学生财会职业能力大赛",
+      "organizing_unit_as_written": "会计学院",
+      "source_range": "'名单2024.3'!A63:C63",
+      "category": null,
+      "recommendation_points": null,
+      "current_applicability": null
+    },
+    {
+      "number": 62,
+      "name": "“中联杯”吉林省大学生智能估值大赛",
+      "organizing_unit_as_written": "会计学院",
+      "source_range": "'名单2024.3'!A64:C64",
+      "category": null,
+      "recommendation_points": null,
+      "current_applicability": null
+    },
+    {
+      "number": 63,
+      "name": "“中金所杯”全国大学生金融知识大赛",
+      "organizing_unit_as_written": "金融学院",
+      "source_range": "'名单2024.3'!A65:C65",
+      "category": null,
+      "recommendation_points": null,
+      "current_applicability": null
+    },
+    {
+      "number": 64,
+      "name": "“工行杯”全国大学生金融科技创新大赛",
+      "organizing_unit_as_written": "金融学院",
+      "source_range": "'名单2024.3'!A66:C66",
+      "category": null,
+      "recommendation_points": null,
+      "current_applicability": null
+    },
+    {
+      "number": 65,
+      "name": "全国高校大学生讲思政课大赛",
+      "organizing_unit_as_written": "马克思主义学院",
+      "source_range": "'名单2024.3'!A67:C67",
+      "category": null,
+      "recommendation_points": null,
+      "current_applicability": null
+    },
+    {
+      "number": 66,
+      "name": "中国大学生工程实践与创新能力大赛",
+      "organizing_unit_as_written": "马克思主义学院",
+      "source_range": "'名单2024.3'!A68:C68",
+      "category": null,
+      "recommendation_points": null,
+      "current_applicability": null
+    },
+    {
+      "number": 67,
+      "name": "吉林省大学生人工智能创新大赛",
+      "organizing_unit_as_written": "实验实训中心",
+      "source_range": "'名单2024.3'!A69:C69",
+      "category": null,
+      "recommendation_points": null,
+      "current_applicability": null
+    },
+    {
+      "number": 68,
+      "name": "吉林省高校大学生机器人大赛",
+      "organizing_unit_as_written": "实验实训中心",
+      "source_range": "'名单2024.3'!A70:C70",
+      "category": null,
+      "recommendation_points": null,
+      "current_applicability": null
+    },
+    {
+      "number": 69,
+      "name": "全国大学生机器人大赛-RoboMaster、RoboCon",
+      "organizing_unit_as_written": "实验实训中心",
+      "source_range": "'名单2024.3'!A71:C71",
+      "category": null,
+      "recommendation_points": null,
+      "current_applicability": null
+    },
+    {
+      "number": 70,
+      "name": "中国机器人大赛暨RoboCup机器人世界杯中国赛",
+      "organizing_unit_as_written": "实验实训中心",
+      "source_range": "'名单2024.3'!A72:C72",
+      "category": null,
+      "recommendation_points": null,
+      "current_applicability": null
+    },
+    {
+      "number": 71,
+      "name": "中国机器人及人工智能大赛",
+      "organizing_unit_as_written": "实验实训中心",
+      "source_range": "'名单2024.3'!A73:C73",
+      "category": null,
+      "recommendation_points": null,
+      "current_applicability": null
+    },
+    {
+      "number": 72,
+      "name": "睿抗机器人开发者大赛（RAICOM）",
+      "organizing_unit_as_written": "实验实训中心",
+      "source_range": "'名单2024.3'!A74:C74",
+      "category": null,
+      "recommendation_points": null,
+      "current_applicability": null
+    },
+    {
+      "number": 73,
+      "name": "高校智能机器人创意大赛",
+      "organizing_unit_as_written": "实验实训中心",
+      "source_range": "'名单2024.3'!A75:C75",
+      "category": null,
+      "recommendation_points": null,
+      "current_applicability": null
+    },
+    {
+      "number": 74,
+      "name": "吉林省大学生虚拟现实大赛",
+      "organizing_unit_as_written": "实验实训中心",
+      "source_range": "'名单2024.3'!A76:C76",
+      "category": null,
+      "recommendation_points": null,
+      "current_applicability": null
+    },
+    {
+      "number": 75,
+      "name": "大学生税务技能大赛",
+      "organizing_unit_as_written": "税务学院",
+      "source_range": "'名单2024.3'!A77:C77",
+      "category": null,
+      "recommendation_points": null,
+      "current_applicability": null
+    },
+    {
+      "number": 76,
+      "name": "全国本科院校税收风险管控案例大赛",
+      "organizing_unit_as_written": "税务学院",
+      "source_range": "'名单2024.3'!A78:C78",
+      "category": null,
+      "recommendation_points": null,
+      "current_applicability": null
+    },
+    {
+      "number": 77,
+      "name": "全国大学生市场调查与分析大赛",
+      "organizing_unit_as_written": "统计学院",
+      "source_range": "'名单2024.3'!A79:C79",
+      "category": null,
+      "recommendation_points": null,
+      "current_applicability": null
+    },
+    {
+      "number": 78,
+      "name": "全国大学生统计建模大赛",
+      "organizing_unit_as_written": "统计学院",
+      "source_range": "'名单2024.3'!A80:C80",
+      "category": null,
+      "recommendation_points": null,
+      "current_applicability": null
+    },
+    {
+      "number": 79,
+      "name": "全国高校经济决策虚仿实验大赛",
+      "organizing_unit_as_written": "统计学院",
+      "source_range": "'名单2024.3'!A81:C81",
+      "category": null,
+      "recommendation_points": null,
+      "current_applicability": null
+    },
+    {
+      "number": 80,
+      "name": "全国财经高校大学生信息素养大赛",
+      "organizing_unit_as_written": "图书馆",
+      "source_range": "'名单2024.3'!A82:C82",
+      "category": null,
+      "recommendation_points": null,
+      "current_applicability": null
+    },
+    {
+      "number": 81,
+      "name": "东北三省韩国语演讲比赛",
+      "organizing_unit_as_written": "外国语学院",
+      "source_range": "'名单2024.3'!A83:C83",
+      "category": null,
+      "recommendation_points": null,
+      "current_applicability": null
+    },
+    {
+      "number": 82,
+      "name": "“外研社·国才杯”“理解当代中国”全国大学生外语能力大赛（外研社全国大学生英语系列赛）-英语翻译",
+      "organizing_unit_as_written": "外国语学院",
+      "source_range": "'名单2024.3'!A84:C84",
+      "category": null,
+      "recommendation_points": null,
+      "current_applicability": null
+    },
+    {
+      "number": 83,
+      "name": "“外研社·国才杯”“理解当代中国”全国大学生外语能力大赛（外研社全国大学生英语系列赛）-日语",
+      "organizing_unit_as_written": "外国语学院",
+      "source_range": "'名单2024.3'!A85:C85",
+      "category": null,
+      "recommendation_points": null,
+      "current_applicability": null
+    },
+    {
+      "number": 84,
+      "name": "“人民中国杯”日语国际翻译大赛",
+      "organizing_unit_as_written": "外国语学院",
+      "source_range": "'名单2024.3'!A86:C86",
+      "category": null,
+      "recommendation_points": null,
+      "current_applicability": null
+    },
+    {
+      "number": 85,
+      "name": "“挑战杯”全国大学生课外学术科技作品竞赛",
+      "organizing_unit_as_written": "校团委",
+      "source_range": "'名单2024.3'!A87:C87",
+      "category": null,
+      "recommendation_points": null,
+      "current_applicability": null
+    },
+    {
+      "number": 86,
+      "name": "“挑战杯”中国大学生创业计划大赛（创青春）",
+      "organizing_unit_as_written": "校团委",
+      "source_range": "'名单2024.3'!A88:C88",
+      "category": null,
+      "recommendation_points": null,
+      "current_applicability": null
+    },
+    {
+      "number": 87,
+      "name": "全国大学生广告艺术设计大赛",
+      "organizing_unit_as_written": "新闻与传播学院",
+      "source_range": "'名单2024.3'!A89:C89",
+      "category": null,
+      "recommendation_points": null,
+      "current_applicability": null
+    },
+    {
+      "number": 88,
+      "name": "两岸新锐设计竞赛·华灿奖",
+      "organizing_unit_as_written": "新闻与传播学院",
+      "source_range": "'名单2024.3'!A90:C90",
+      "category": null,
+      "recommendation_points": null,
+      "current_applicability": null
+    },
+    {
+      "number": 89,
+      "name": "全国高校数字艺术设计大赛",
+      "organizing_unit_as_written": "新闻与传播学院",
+      "source_range": "'名单2024.3'!A91:C91",
+      "category": null,
+      "recommendation_points": null,
+      "current_applicability": null
+    },
+    {
+      "number": 90,
+      "name": "米兰设计周——中国高校设计学科师生优秀作品展",
+      "organizing_unit_as_written": "新闻与传播学院",
+      "source_range": "'名单2024.3'!A92:C92",
+      "category": null,
+      "recommendation_points": null,
+      "current_applicability": null
+    },
+    {
+      "number": 91,
+      "name": "中国好创意暨全国数字艺术设计大赛",
+      "organizing_unit_as_written": "新闻与传播学院",
+      "source_range": "'名单2024.3'!A93:C93",
+      "category": null,
+      "recommendation_points": null,
+      "current_applicability": null
+    },
+    {
+      "number": 92,
+      "name": "全国三维数字化创新设计大赛",
+      "organizing_unit_as_written": "新闻与传播学院",
+      "source_range": "'名单2024.3'!A94:C94",
+      "category": null,
+      "recommendation_points": null,
+      "current_applicability": null
+    },
+    {
+      "number": 93,
+      "name": "中华经典诵写讲大赛",
+      "organizing_unit_as_written": "新闻与传播学院",
+      "source_range": "'名单2024.3'!A95:C95",
+      "category": null,
+      "recommendation_points": null,
+      "current_applicability": null
+    },
+    {
+      "number": 94,
+      "name": "青年新媒体创意创业大赛",
+      "organizing_unit_as_written": "新闻与传播学院",
+      "source_range": "'名单2024.3'!A96:C96",
+      "category": null,
+      "recommendation_points": null,
+      "current_applicability": null
+    },
+    {
+      "number": 95,
+      "name": "吉林省公益广告大赛",
+      "organizing_unit_as_written": "新闻与传播学院",
+      "source_range": "'名单2024.3'!A97:C97",
+      "category": null,
+      "recommendation_points": null,
+      "current_applicability": null
+    },
+    {
+      "number": 96,
+      "name": "吉林省大学生广告创意大赛",
+      "organizing_unit_as_written": "新闻与传播学院",
+      "source_range": "'名单2024.3'!A98:C98",
+      "category": null,
+      "recommendation_points": null,
+      "current_applicability": null
+    },
+    {
+      "number": 97,
+      "name": "全国大学生数字媒体科技作品及创意竞赛",
+      "organizing_unit_as_written": "新闻与传播学院",
+      "source_range": "'名单2024.3'!A99:C99",
+      "category": null,
+      "recommendation_points": null,
+      "current_applicability": null
+    },
+    {
+      "number": 98,
+      "name": "KTK设计奖 ·全球华人设计比赛",
+      "organizing_unit_as_written": "新闻与传播学院",
+      "source_range": "'名单2024.3'!A100:C100",
+      "category": null,
+      "recommendation_points": null,
+      "current_applicability": null
+    },
+    {
+      "number": 99,
+      "name": "中国大学生广告艺术节学院奖",
+      "organizing_unit_as_written": "新闻与传播学院",
+      "source_range": "'名单2024.3'!A101:C101",
+      "category": null,
+      "recommendation_points": null,
+      "current_applicability": null
+    },
+    {
+      "number": 100,
+      "name": "东方设计奖 ·全国高校创新设计大赛",
+      "organizing_unit_as_written": "新闻与传播学院",
+      "source_range": "'名单2024.3'!A102:C102",
+      "category": null,
+      "recommendation_points": null,
+      "current_applicability": null
+    },
+    {
+      "number": 101,
+      "name": "全国大学生语言文字能力大赛",
+      "organizing_unit_as_written": "新闻与传播学院",
+      "source_range": "'名单2024.3'!A103:C103",
+      "category": null,
+      "recommendation_points": null,
+      "current_applicability": null
+    },
+    {
+      "number": 102,
+      "name": "时报金犊奖",
+      "organizing_unit_as_written": "新闻与传播学院",
+      "source_range": "'名单2024.3'!A104:C104",
+      "category": null,
+      "recommendation_points": null,
+      "current_applicability": null
+    },
+    {
+      "number": 103,
+      "name": "吉林省冰雪创意大赛/全国校园冰雪创意设计大赛",
+      "organizing_unit_as_written": "亚泰工商管理学院",
+      "source_range": "'名单2024.3'!A105:C105",
+      "category": null,
+      "recommendation_points": null,
+      "current_applicability": null
+    },
+    {
+      "number": 104,
+      "name": "“学创杯”全国大学生创业综合模拟大赛",
+      "organizing_unit_as_written": "亚泰工商管理学院",
+      "source_range": "'名单2024.3'!A106:C106",
+      "category": null,
+      "recommendation_points": null,
+      "current_applicability": null
+    },
+    {
+      "number": 105,
+      "name": "全国管理决策模拟大赛",
+      "organizing_unit_as_written": "亚泰工商管理学院",
+      "source_range": "'名单2024.3'!A107:C107",
+      "category": null,
+      "recommendation_points": null,
+      "current_applicability": null
+    },
+    {
+      "number": 106,
+      "name": "全国大学生物流设计大赛",
+      "organizing_unit_as_written": "亚泰工商管理学院",
+      "source_range": "'名单2024.3'!A108:C108",
+      "category": null,
+      "recommendation_points": null,
+      "current_applicability": null
+    },
+    {
+      "number": 107,
+      "name": "吉林省大学生精创杯云管理大赛",
+      "organizing_unit_as_written": "亚泰工商管理学院",
+      "source_range": "'名单2024.3'!A109:C109",
+      "category": null,
+      "recommendation_points": null,
+      "current_applicability": null
+    },
+    {
+      "number": 108,
+      "name": "企业竞争模拟大赛",
+      "organizing_unit_as_written": "亚泰工商管理学院",
+      "source_range": "'名单2024.3'!A110:C110",
+      "category": null,
+      "recommendation_points": null,
+      "current_applicability": null
+    },
+    {
+      "number": 109,
+      "name": "全国大学生物联网设计竞赛",
+      "organizing_unit_as_written": "亚泰工商管理学院",
+      "source_range": "'名单2024.3'!A111:C111",
+      "category": null,
+      "recommendation_points": null,
+      "current_applicability": null
+    },
+    {
+      "number": 110,
+      "name": "吉林省高校大学生文旅大赛",
+      "organizing_unit_as_written": "亚泰工商管理学院",
+      "source_range": "'名单2024.3'!A112:C112",
+      "category": null,
+      "recommendation_points": null,
+      "current_applicability": null
+    },
+    {
+      "number": 111,
+      "name": "中国大学生人力资源创新实践大寨(HRU大赛)",
+      "organizing_unit_as_written": "亚泰工商管理学院",
+      "source_range": "'名单2024.3'!A113:C113",
+      "category": null,
+      "recommendation_points": null,
+      "current_applicability": null
+    },
+    {
+      "number": 112,
+      "name": "全国大学生人力资源管理综合能力竞赛",
+      "organizing_unit_as_written": "亚泰工商管理学院",
+      "source_range": "'名单2024.3'!A114:C114",
+      "category": null,
+      "recommendation_points": null,
+      "current_applicability": null
+    },
+    {
+      "number": 113,
+      "name": "全国供应链大赛",
+      "organizing_unit_as_written": "亚泰工商管理学院",
+      "source_range": "'名单2024.3'!A115:C115",
+      "category": null,
+      "recommendation_points": null,
+      "current_applicability": null
+    },
+    {
+      "number": 114,
+      "name": "全国大学生数学建模竞赛",
+      "organizing_unit_as_written": "应用数学学院",
+      "source_range": "'名单2024.3'!A116:C116",
+      "category": null,
+      "recommendation_points": null,
+      "current_applicability": null
+    },
+    {
+      "number": 115,
+      "name": "全国大学生数学竞赛",
+      "organizing_unit_as_written": "应用数学学院",
+      "source_range": "'名单2024.3'!A117:C117",
+      "category": null,
+      "recommendation_points": null,
+      "current_applicability": null
+    },
+    {
+      "number": 116,
+      "name": "全国大学生职业规划大赛",
+      "organizing_unit_as_written": "招生就业处",
+      "source_range": "'名单2024.3'!A118:C118",
+      "category": null,
+      "recommendation_points": null,
+      "current_applicability": null
+    }
+  ]
+}
